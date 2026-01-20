@@ -35,9 +35,9 @@
 | Oriental Poppies | 1927 | ✓ | [Georgia O'Keeffe Museum](https://www.okeeffemuseum.org/) |
 | Black Iris | 1926 | ✓ | [Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/489813) |
 | City Night | 1926 | ✓ | [Minneapolis Institute of Art](https://collections.artsmia.org/art/1644/city-night-georgia-okeeffe) |
-| Radiator Building—Night, New York | 1927 | ✓ | [Crystal Bridges Museum](https://crystalbridges.org/blog/artwork-of-the-week-radiator-building-night-new-york/) |
+| Radiator Building—Night, New York | 1927 | ✓ | [Wikipedia](https://en.wikipedia.org/wiki/Georgia_O%27Keeffe) |
 | Cow's Skull: Red, White, and Blue | 1931 | ✓ | [Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/489065) |
-| Ram's Head, White Hollyhock—Hills | 1935 | ✓ | [Brooklyn Museum](https://www.brooklynmuseum.org/opencollection/objects/5533) |
+| Ram's Head, White Hollyhock—Hills | 1935 | ✓ | [Wikipedia](https://en.wikipedia.org/wiki/Georgia_O%27Keeffe) |
 | Sky Above Clouds IV | 1965 | ✓ | [Art Institute of Chicago](https://www.artic.edu/artworks/100858/sky-above-clouds-iv), [Wikipedia](https://en.wikipedia.org/wiki/Sky_Above_Clouds) |
 | Sky Above Clouds IV is 8 ft × 24 ft (her largest painting) | ✓ | [Art Institute of Chicago](https://www.artic.edu/artworks/100858/sky-above-clouds-iv), [Hyperallergic](https://hyperallergic.com/548956/how-john-deere-and-eero-saarinen-inspired-georgia-okeeffes-largest-painting/) |
 

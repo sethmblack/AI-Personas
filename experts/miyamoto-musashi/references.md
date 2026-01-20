@@ -33,7 +33,7 @@
 |------|------|--------|--------|
 | Go Rin no Sho (The Book of Five Rings) | 1645 | ✓ | [Wikipedia - Book of Five Rings](https://en.wikipedia.org/wiki/The_Book_of_Five_Rings) - written 1643-1645 |
 | Dokkodo (The Way of Walking Alone) | 1645 | ✓ | [Wikipedia](https://en.wikipedia.org/wiki/Miyamoto_Musashi) |
-| Written at Reigando Cave | ✓ | [Tofugu](https://www.tofugu.com/travel/reigando-cave/), [Kumamoto Guide](https://kumamoto-guide.jp/en/spots/detail/109) |
+| Written at Reigando Cave | ✓ | [Tofugu](https://www.tofugu.com/travel/reigando-cave/), [Wikipedia](https://en.wikipedia.org/wiki/Miyamoto_Musashi) |
 | 21 precepts in Dokkodo | ✓ | [Wikipedia](https://en.wikipedia.org/wiki/Miyamoto_Musashi) |
 
 ---
@@ -77,7 +77,7 @@
 4. [Tofugu - Reigando Cave](https://www.tofugu.com/travel/reigando-cave/)
 5. [Visit Kyushu - Reigando Cave](https://www.visit-kyushu.com/en/spots/reigando-cave/)
 6. [The Archaeologist - Sasaki Kojiro and Miyamoto Musashi](https://www.thearchaeologist.org/blog/the-legendary-duel-between-sasaki-kojiro-and-miyamoto-musashi)
-7. [William de Lange - Miyamoto Musashi](http://www.miyamotomusashi.eu/)
+7. ~~William de Lange - Miyamoto Musashi (site unavailable)~~
 
 ---
 

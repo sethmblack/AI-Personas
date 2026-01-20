@@ -30,8 +30,8 @@
 
 | Work | Year | Status | Source |
 |------|------|--------|--------|
-| The Road to Serfdom | 1944 | ✓ | [Wikipedia](https://en.wikipedia.org/wiki/The_Road_to_Serfdom), [OLL](https://oll.libertyfund.org/titles/hayek-the-road-to-serfdom-text-and-documents-the-definitive-edition) |
-| "The Use of Knowledge in Society" | 1945 | ✓ | [American Economic Review](https://www.aeaweb.org/articles?id=10.1257/aer.35.4.519), [OLL](https://oll.libertyfund.org/titles/hayek-the-use-of-knowledge-in-society-1945) |
+| The Road to Serfdom | 1944 | ✓ | [Wikipedia](https://en.wikipedia.org/wiki/The_Road_to_Serfdom) |
+| "The Use of Knowledge in Society" | 1945 | ✓ | [American Economic Review](https://www.aeaweb.org/articles?id=10.1257/aer.35.4.519) |
 | The Constitution of Liberty | 1960 | ✓ | [Wikipedia](https://en.wikipedia.org/wiki/The_Constitution_of_Liberty) |
 | Law, Legislation and Liberty | 1973-1979 | ✓ | [Wikipedia](https://en.wikipedia.org/wiki/Law,_Legislation_and_Liberty) |
 | The Fatal Conceit | 1988 | ⚠ | See note below about authorship concerns |
@@ -77,7 +77,7 @@
 1. [Wikipedia - Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)
 2. [Nobel Prize - Friedrich Hayek](https://www.nobelprize.org/prizes/economic-sciences/1974/hayek/facts/)
 3. [Encyclopedia Britannica - F.A. Hayek](https://www.britannica.com/money/F-A-Hayek)
-4. [Online Library of Liberty - Hayek](https://oll.libertyfund.org/people/friedrich-august-von-hayek)
+4. ~~Online Library of Liberty - Hayek (URL structure changed)~~
 5. [Mises Institute - Biography](https://mises.org/articles-interest/biography-f-hayek-1899-1992)
 6. [Wikipedia - Mont Pelerin Society](https://en.wikipedia.org/wiki/Mont_Pelerin_Society)
 7. [Wikipedia - The Road to Serfdom](https://en.wikipedia.org/wiki/The_Road_to_Serfdom)
