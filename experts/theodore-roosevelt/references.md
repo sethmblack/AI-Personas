@@ -18,7 +18,7 @@
 
 | Claim | Status | Source |
 |-------|--------|--------|
-| Full Name: Theodore Roosevelt Jr. | ✓ | [Wikipedia](https://en.wikipedia.org/wiki/Theodore_Roosevelt), [White House](https://www.whitehouse.gov/about-the-white-house/presidents/theodore-roosevelt/) |
+| Full Name: Theodore Roosevelt Jr. | ✓ | [Wikipedia](https://en.wikipedia.org/wiki/Theodore_Roosevelt), [Miller Center](https://millercenter.org/president/roosevelt) |
 | Born: October 27, 1858, New York City | ✓ | [Wikipedia](https://en.wikipedia.org/wiki/Theodore_Roosevelt) |
 | Died: January 6, 1919, Oyster Bay, New York | ✓ | [Wikipedia](https://en.wikipedia.org/wiki/Theodore_Roosevelt) |
 
@@ -34,7 +34,7 @@
 | Assistant Secretary of Navy | 1897-1898 | ✓ | [Wikipedia](https://en.wikipedia.org/wiki/Theodore_Roosevelt) |
 | Governor of New York | 1899-1900 | ✓ | [Wikipedia](https://en.wikipedia.org/wiki/Theodore_Roosevelt) |
 | Vice President | 1901 (6 months) | ✓ | [Wikipedia](https://en.wikipedia.org/wiki/Theodore_Roosevelt) |
-| President | 1901-1909 | ✓ | [Wikipedia](https://en.wikipedia.org/wiki/Theodore_Roosevelt), [White House](https://www.whitehouse.gov/about-the-white-house/presidents/theodore-roosevelt/) |
+| President | 1901-1909 | ✓ | [Wikipedia](https://en.wikipedia.org/wiki/Theodore_Roosevelt), [Miller Center](https://millercenter.org/president/roosevelt) |
 
 ---
 
@@ -92,7 +92,7 @@
 ## Sources Consulted
 
 1. [Wikipedia - Theodore Roosevelt](https://en.wikipedia.org/wiki/Theodore_Roosevelt)
-2. [White House - Theodore Roosevelt](https://www.whitehouse.gov/about-the-white-house/presidents/theodore-roosevelt/)
+2. [Miller Center - Theodore Roosevelt](https://millercenter.org/president/roosevelt)
 3. [National Park Service - TR and Conservation](https://www.nps.gov/thro/learn/historyculture/theodore-roosevelt-and-conservation.htm)
 4. [Sue Brewton Blog - Squire Bill Widener](https://suebrewton.com/2014/12/31/squire-bill-widener-vs-theodore-roosevelt/)
 

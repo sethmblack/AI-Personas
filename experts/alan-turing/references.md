@@ -72,8 +72,8 @@
 
 | Claim | Status | Source |
 |-------|--------|--------|
-| AAA Championships marathon 1947, 5th place, 2:46:03 | ✓ | [MacTutor](https://mathshistory.st-andrews.ac.uk/Extras/Turing_running/), [TrackStats](https://www.nuts.org.uk/trackstats/alanturing.htm) |
-| Tried out for 1948 British Olympic team, hampered by injury | ✓ | [MacTutor](https://mathshistory.st-andrews.ac.uk/Extras/Turing_running/), [Racing Past](https://www.racingpast.ca/bob-phillips.php?id=33) |
+| AAA Championships marathon 1947, 5th place, 2:46:03 | ✓ | [MacTutor](https://mathshistory.st-andrews.ac.uk/Extras/Turing_running/) |
+| Tried out for 1948 British Olympic team, hampered by injury | ✓ | [MacTutor](https://mathshistory.st-andrews.ac.uk/Extras/Turing_running/) |
 | Time only 11 minutes slower than Thomas Richards' Olympic silver | ✓ | [MacTutor](https://mathshistory.st-andrews.ac.uk/Extras/Turing_running/) |
 | Joined Walton Athletic Club 1945 | ✓ | [MacTutor](https://mathshistory.st-andrews.ac.uk/Extras/Turing_running/) |
 | "I have such a stressful job that the only way I can get it out of my mind is by running hard" | ✓ | [MacTutor](https://mathshistory.st-andrews.ac.uk/Extras/Turing_running/) |
@@ -114,7 +114,7 @@
 5. [Turing Digital Archive](https://turingarchive.kings.cam.ac.uk/)
 6. [Wikiquote - The Imitation Game](https://en.wikiquote.org/wiki/The_Imitation_Game)
 7. Andrew Hodges, *Alan Turing: The Enigma* (1983)
-8. [TrackStats - Alan Turing](https://www.nuts.org.uk/trackstats/alanturing.htm)
+8. ~~TrackStats - Alan Turing (domain defunct)~~
 
 ---
 

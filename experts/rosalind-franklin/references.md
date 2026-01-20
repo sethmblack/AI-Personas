@@ -77,7 +77,7 @@
 | Did not share 1962 Nobel Prize | ✓ | [Wikipedia](https://en.wikipedia.org/wiki/Rosalind_Franklin), [Nobel Prize](https://www.nobelprize.org/prizes/medicine/1962/summary/) |
 | Watson's "The Double Helix" (1968) portrayed her negatively | ✓ | [Wikipedia](https://en.wikipedia.org/wiki/Rosalind_Franklin) |
 | Rosalind Franklin University named in her honor | ✓ | [RFU](https://www.rosalindfranklin.edu/) |
-| ESA Mars rover named "Rosalind Franklin" | ✓ | [ESA](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/Rosalind_Franklin) |
+| ESA Mars rover named "Rosalind Franklin" | ✓ | [ESA ExoMars](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars) |
 
 ---
 

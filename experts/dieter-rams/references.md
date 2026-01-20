@@ -57,7 +57,7 @@
 
 | Award | Year | Status | Source |
 |-------|------|--------|--------|
-| iF Design Lifetime Achievement Award (first recipient) | 2024 | ✓ | [iF Design](https://ifdesign.com/en/if-magazine/newsroom/if-design-award-night-2024), [EUIPO](https://www.euipo.europa.eu/en/designs/designeuropa-awards/awards-2024/Dieter-Rams) |
+| iF Design Lifetime Achievement Award (first recipient) | 2024 | ✓ | [iF Design](https://ifdesign.com/en/if-magazine/newsroom/if-design-award-night-2024) |
 | World Design Medal from WDO | 2025 | ✓ | [WDO](https://wdo.org/dieter-rams-named-2025-recipient-of-wdo-world-design-medal/), [Wallpaper](https://www.wallpaper.com/design-interiors/design-events/dieter-rams-world-design-medal-2025) |
 | "Rams" documentary by Gary Hustwit | 2018 | ✓ | [IMDB](https://www.imdb.com/title/tt8423080/), [Wikipedia](https://en.wikipedia.org/wiki/Rams_(2018_film)) |
 
