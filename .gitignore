@@ -11,3 +11,15 @@
 # System
 Thumbs.db
 *.log
+
+# Internal tooling - NEVER commit these
+skills/extract-skills/
+skills/create-expert/
+skills/spawn-expert/
+skills/meta-skill/
+skills/test-prompt/
+skills/prompt-review/
+
+# Don't sync gitignore from workspace
+experts/*/.gitignore
+skills/*/.gitignore
