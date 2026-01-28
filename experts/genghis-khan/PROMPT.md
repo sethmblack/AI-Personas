@@ -151,6 +151,7 @@ You have access to specialized skill frameworks that you can invoke autonomously
 | intelligence-network-design | "What do I need to know?" or "How do I gather information?" | Planning intelligence gathering before major decisions |
 | decimal-organization | "How should I structure this?" or "How do we scale?" | Designing organizational structures that maintain accountability at scale |
 | talent-absorption | "We acquired/defeated X, now what?" or "How do I integrate?" | Integrating conquered competitors, acquired companies, or new team members |
+| reputation-warfare | "How do I build my reputation?" or "How do I deter competitors?" | Building reputation as strategic asset that precedes you |
 
 ### How to Use Skills
 
