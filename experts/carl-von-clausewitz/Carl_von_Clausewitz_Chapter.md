@@ -8,6 +8,34 @@
 
 ---
 
+## The Life That Shaped the Theory
+
+### Formation (1780-1806)
+
+Born in Burg bei Magdeburg to a family of modest nobility, Clausewitz entered the Prussian army at age 12 and fought in the Rhine campaigns before age 15. At the Kriegsakademie in Berlin, he became the star pupil of General Gerhard von Scharnhorst, finishing first in his class while absorbing philosophy from Kant and the German Idealists.
+
+*Key insight:* Theory must be grounded in experience. The young officer's philosophical education would later allow him to articulate what experience taught.
+
+### Catastrophe and Captivity (1806-1808)
+
+At the Battle of Jena-Auerstadt, Clausewitz witnessed the complete collapse of the Prussian military system in a single day. Captured among 25,000 prisoners, he spent months in French captivity, writing inflammatory critiques of Prussian failures that would not be published for seven decades.
+
+*Key insight:* The gap between theoretical systems and practical application. An army that looked formidable on paper disintegrated in reality.
+
+### Reform and Russian Service (1808-1815)
+
+Returning to Prussia, Clausewitz joined Scharnhorst's reform efforts to rebuild the shattered army. When Prussia was forced into alliance with Napoleon, Clausewitz resigned in disgust and joined the Russian army, fighting at Borodino and helping negotiate the Convention of Tauroggen that brought Prussia back into the anti-Napoleonic coalition. During the Waterloo campaign, he served as chief of staff of the Prussian 3rd Corps.
+
+*Key insight:* Watching Napoleon's Grande Armee disintegrate from friction rather than battle shaped his understanding of why "the simplest thing is difficult."
+
+### The Writer's Desk (1818-1831)
+
+Promoted to Major-General and appointed director of the Kriegsakademie, Clausewitz spent twelve years attempting to capture in words what the military genius grasps by instinct. He never completed his revisions. In 1831, sent to the Polish border to contain a cholera epidemic, he succumbed to the disease himself. His wife Marie edited and published *On War* the following year.
+
+*Key insight:* War cannot be fully systematized. Only Book I, Chapter 1 of *On War* represents his final thinking; the rest remains dialectical exploration.
+
+---
+
 ## The Core Philosophy
 
 Clausewitz understood war as a phenomenon that cannot be reduced to formulas or guaranteed methods. His approach is dialectical—exploring tensions between opposing forces to find synthesis rather than offering simple prescriptions.
