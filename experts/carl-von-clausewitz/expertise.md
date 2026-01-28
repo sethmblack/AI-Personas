@@ -1,9 +1,14 @@
 # Carl von Clausewitz - Research and Expertise
 
+> **Note:** Procedural frameworks have been extracted as skills. This file contains reference material including biographical information, verified quotations, historical context, and domain knowledge.
+
+---
+
 ## Biographical Overview
 
 **Full Name:** Carl Philipp Gottlieb von Clausewitz
-**Lived:** June 1, 1780 (Burg, Prussia) – November 16, 1831 (Breslau, Silesia)
+**Lived:** July 1, 1780 (Burg, Prussia) – November 16, 1831 (Breslau, Silesia)
+*Note: Some sources cite June 1, 1780 as birth date; July 1 reflects recent German scholarship.*
 **Rank:** Major-General (Prussian Army)
 **Primary Work:** *Vom Kriege* (*On War*), published posthumously 1832
 **Era:** Napoleonic Wars, Prussian Military Reformation
@@ -299,6 +304,174 @@ Clausewitz's concepts have been widely applied to:
 
 ---
 
+## Additional Concepts
+
+### 9. Moral Forces
+
+Clausewitz places enormous emphasis on moral (psychological) factors in war. "The moral forces are amongst the most important subjects in War. They form the spirit which permeates the whole being of War."
+
+Key moral elements:
+- **The skill of the commander**
+- **The experience and courage of the troops**
+- **Their patriotic spirit**
+
+*"It is not only the loss in men, horses and guns, but in order, courage, confidence, cohesion and plan, which come into consideration when it is a question whether the fight can be still continued or not. It is principally the moral forces which decide here."*
+
+### 10. Military Genius
+
+Clausewitz describes military genius as a "very special harmonious combination of elements that created a highly developed mental aptitude for war." This genius comprises two elements:
+
+| Element | Description |
+|---------|-------------|
+| **Mind** | Intellect that retains "glimmerings of inner light which leads to truth" even in the darkest hour |
+| **Temperament** | Physical and moral courage to act, inspire others, face danger, and accept responsibility |
+
+The genius possesses **coup d'oeil** - the ability to see at a glance what ordinary minds would need prolonged study to discern.
+
+### 11. Courage: Two Types
+
+**Physical Courage:** Courage in presence of danger to the person
+- May stem from indifference to danger, contempt of death, or habit
+- May arise from positive motives: pride, patriotism, enthusiasm
+
+**Moral Courage:** Courage before responsibility
+- Willingness to accept the judgment of external authority
+- Willingness to face one's own conscience
+- The ability to make decisions under uncertainty and accept their consequences
+
+*"Mere intelligence is still not courage, for we often see the cleverest people devoid of resolution."*
+
+### 12. The Role of Danger
+
+*"War is the province of danger, and therefore courage above all things is the first quality of a warrior."*
+
+Danger permeates all of war and affects decision-making:
+- It degrades the quality of information
+- It causes hesitation and delay
+- It magnifies friction
+- It tests the will of commanders and troops
+
+---
+
+## The Waterloo Campaign (1815)
+
+### Clausewitz's Role
+During the Waterloo campaign, Clausewitz served as **chief of staff of the Prussian 3rd Corps** under General Thielmann. This gave him a direct view of the campaign's final decisive engagement.
+
+### Clausewitz's Critique of Napoleon at Waterloo
+
+Clausewitz analyzed the campaign extensively and criticized several of Napoleon's decisions:
+
+1. **Failure to pursue after Ligny:** "If Napoleon had continued the pursuit of Blucher's Prussians after Ligny with his entire army, he surely would have achieved another, more thorough victory that would have decided the campaign."
+
+2. **Final attack of the Middle Guard:** Clausewitz considered Napoleon's launching of his Middle Guard division against the British position with Blucher's regrouped army facing him to be "the act of a lunatic."
+
+3. **Post-Waterloo situation:** "Realistically, Napoleon could muster perhaps 70,000 men for a final defense of Paris, against an attacking force more than twice as large."
+
+### Lessons Applied to *On War*
+The Waterloo campaign reinforced Clausewitz's views on:
+- The culminating point of attack
+- The interaction of multiple armies
+- The critical importance of pursuit after victory
+- How political constraints shape military options
+
+---
+
+## Clausewitz's Legacy and Influence
+
+### Influence on Moltke the Elder
+
+Helmuth von Moltke ("the Elder," 1800-1891), Chief of the Prussian General Staff during the Wars of German Unification, was a self-professed disciple of Clausewitz.
+
+**Moltke's famous acknowledgment:** Following the creation of the German Empire in 1871, Moltke publicly attributed his success to three foundational influences: the Bible, the Homeric epics, and the writings of Carl von Clausewitz.
+
+**Key areas of influence on Moltke:**
+- Acceptance of uncertainty and friction as inherent to war
+- Emphasis on moral factors
+- Primacy of battle and annihilation of the enemy army
+- Encouragement of independent judgment by subordinates
+
+**Moltke's reflection of Clausewitz:** "No operational plan extends with high certainty beyond the first encounter with the main enemy force" - a classic reflection of Clausewitz's insistence on the roles of chance, friction, "fog," uncertainty, and interactivity in war.
+
+### Development of Auftragstaktik
+
+The Prussian approach to **Auftragstaktik** (mission tactics) embodies Clausewitzian principles:
+- Decentralization and initiative to lowest levels
+- Emphasis on independent judgment, ingenuity, and spontaneity
+- Focus on commander's intent rather than rigid obedience
+
+### Modern Military Doctrine
+
+Clausewitz's influence extends to:
+- **U.S. Military Doctrine:** *On War* became required reading at US war colleges after Vietnam
+- **NATO Strategic Thinking:** Concepts like center of gravity embedded in NATO doctrine
+- **British Military Theory:** J.F.C. Fuller popularized Clausewitz in English
+- **Counterinsurgency Theory:** Modern applications to asymmetric warfare
+
+---
+
+## Schwerpunkt: Translation Controversies
+
+The German term **Schwerpunkt** has been translated multiple ways, leading to doctrinal confusion:
+
+| Translation | Interpretation | Usage |
+|-------------|---------------|-------|
+| **Center of Gravity** | The hub of power around which everything coheres | U.S. military doctrine |
+| **Focus of Effort** | The point where main effort is directed | German military tradition |
+| **Point of Main Effort** | Where resources are concentrated | Operational planning |
+
+**Key scholarly insight:** Clausewitz uses the standard physics meaning of Schwerpunkt (center of gravity), appealing to the analogy of a central gravitational point around which stability and cohesion form. But he also sometimes means "point of main effort." Accurate translations must depend on context.
+
+**The "connectivity" requirement:** A center of gravity requires sufficient connectivity between a system's parts. The U.S. military's definitions sometimes overlook this prerequisite, assuming centers of gravity exist where none might - the enemy may not have sufficient connectivity to have a CoG.
+
+---
+
+## The Captivity Experience (1806-1807)
+
+### Circumstances of Capture
+At the Battle of Jena-Auerstedt on October 14, 1806, Clausewitz was captured as one of approximately **25,000 Prussian prisoners** taken that day as the Prussian army disintegrated.
+
+### Conditions of Captivity
+Clausewitz's captivity was not punitive. Officers taken into custody by a foreign power were usually allowed to move freely; they only had to surrender their insignia and weapons and swear not to take up arms against the detaining army.
+
+**Locations during captivity:**
+- Berlin and Neu-Ruppin (late 1806)
+- Soissons, France (first half of 1807)
+- Nancy, France
+- Three weeks in Paris
+
+### Intellectual Work During Captivity
+
+Clausewitz wrote "Observations on Prussia in its Great Catastrophe" in 1806. Its criticisms of how the Prussian regiments had lost at Jena and Auerstadt were considered so inflammatory that the work would not be published in Germany for another seven decades.
+
+---
+
+## Modern Business Applications (Expanded)
+
+### Clausewitz in Corporate Strategy
+
+The Boston Consulting Group's Strategy Institute has identified Clausewitz as highly relevant to business strategy:
+
+*"Clausewitz speaks the mind of the executive, revealing logic that those interested in strategic thinking and practice will find invaluable."*
+
+### Fog and Friction in Technology
+
+| Clausewitz Concept | Tech/Business Parallel |
+|-------------------|----------------------|
+| **Fog** | Uncertainty about product-market fit, competitor reactions, customer preferences |
+| **Friction** | Implementation challenges, organizational resistance, technical debt |
+| **Culminating Point** | When growth becomes overextension (scaling too fast) |
+| **Center of Gravity** | Core competency, key customer segment, critical partnership |
+
+### AI and Real-Time Systems
+
+Modern applications to AI and autonomous systems echo Clausewitz:
+- Driverless cars and real-time critical systems face fog-of-war and frictional challenges similar to military operations
+- Plans executed by algorithmic entities must account for rapidly-shifting conditions
+- Friction impairs "institutional cognition" in real-time conflict
+
+---
+
 ## Sources
 
 - [Carl von Clausewitz - Wikipedia](https://en.wikipedia.org/wiki/Carl_von_Clausewitz)
@@ -307,3 +480,12 @@ Clausewitz's concepts have been widely applied to:
 - [Clausewitz Studies](https://www.clausewitzstudies.org/)
 - [Clausewitz Quotations](https://www.clausewitz.com/readings/Cquotations.htm)
 - [Carl von Clausewitz - Wikiquote](https://en.wikiquote.org/wiki/Carl_von_Clausewitz)
+- [Clausewitz Center of Gravity - DTIC](https://apps.dtic.mil/sti/tr/pdf/ADA523742.pdf)
+- [Center of Gravity Military - Wikipedia](https://en.wikipedia.org/wiki/Center_of_gravity_(military))
+- [Clausewitz Culminating Point - Modern War Institute](https://mwi.westpoint.edu/clausewitz-the-culminating-point-of-victory-and-israels-perilous-rafah-operation/)
+- [Fog and Friction - The Sand Reckoner](https://www.thesandreckoner.co.uk/fog-and-friction-the-limitations-of-strategy-in-dealing-with-uncertainty/)
+- [Clausewitz and Business](https://clausewitz.com/mobile/business.htm)
+- [Moltke and German Military Tradition - Army War College](https://press.armywarcollege.edu/cgi/viewcontent.cgi?article=1766&context=parameters)
+- [Clausewitz on Waterloo](https://clausewitzstudies.org/readings/1815/seven.htm)
+- [Clausewitz Moral Forces - Oxford Academic](https://academic.oup.com/book/3878/chapter/145404565)
+- [Clausewitz Military Genius - Strategy Bridge](https://thestrategybridge.org/the-bridge/2015/12/28/clausewitzs-military-genius-and-the-human-dimension)
