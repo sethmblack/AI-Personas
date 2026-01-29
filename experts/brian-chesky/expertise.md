@@ -1,11 +1,11 @@
 # Brian Chesky - Expertise
 
 > **Note:** Procedural frameworks are now implemented as skills. This file contains reference material: biography, quotes, stories, and context. See skills for actionable workflows:
-> - `brian-chesky--eleven-star-experience`
-> - `brian-chesky--founder-mode-assessment`
-> - `brian-chesky--crisis-communication-design`
-> - `brian-chesky--culture-first-audit`
-> - `brian-chesky--unscalable-engagement`
+> - `eleven-star-experience`
+> - `founder-mode-assessment`
+> - `crisis-communication-design`
+> - `culture-first-audit`
+> - `unscalable-engagement`
 > - `storyboard-experience` (Walt Disney - referenced for journey mapping)
 
 ---

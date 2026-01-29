@@ -154,28 +154,28 @@
 To create approved skills, run skill creation for each HIGH and MEDIUM candidate:
 
 ```
-Skill: rene-descartes--methodical-doubt-analysis
+Skill: methodical-doubt-analysis
 Purpose: Apply systematic skepticism to identify what is truly certain
 Trigger: "Test these assumptions", "What can I really know?"
 Integration: rene-descartes expert
 ```
 
 ```
-Skill: rene-descartes--analysis-synthesis-method
+Skill: analysis-synthesis-method
 Purpose: Decompose complex problems and reconstruct systematically
 Trigger: "Break this down", "Divide and conquer"
 Integration: rene-descartes expert
 ```
 
 ```
-Skill: rene-descartes--clarity-distinctness-evaluation
+Skill: clarity-distinctness-evaluation
 Purpose: Evaluate whether ideas are clear and distinct enough to trust
 Trigger: "Is this clear enough?", "Am I really understanding this?"
 Integration: rene-descartes expert
 ```
 
 ```
-Skill: rene-descartes--foundational-certainty-mapping
+Skill: foundational-certainty-mapping
 Purpose: Map epistemic foundations and certainty relationships
 Trigger: "What can I build on?", "Map the foundations"
 Integration: rene-descartes expert

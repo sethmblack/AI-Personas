@@ -204,29 +204,29 @@ Decision: ALL 5 criteria must be YES for CANDIDATE status.
 
 ### CREATE (HIGH Priority)
 
-1. **brian-chesky--eleven-star-experience**
+1. **eleven-star-experience**
    - Purpose: Design exceptional experiences using 11-star progression
    - Trigger: Customer experience design, exceeding expectations
    - Integration: Brian Chesky expert
 
-2. **brian-chesky--founder-mode-assessment** (includes chief-editor-leadership)
+2. **founder-mode-assessment** (includes chief-editor-leadership)
    - Purpose: Diagnose and improve leader engagement in product/company
    - Trigger: Leadership engagement questions, micromanagement concerns
    - Integration: Brian Chesky expert
 
-3. **brian-chesky--crisis-communication-design**
+3. **crisis-communication-design**
    - Purpose: Design humane, compassionate crisis communications
    - Trigger: Layoffs, difficult announcements, crisis communication
    - Integration: Brian Chesky expert
 
 ### CREATE (MEDIUM Priority)
 
-4. **brian-chesky--culture-first-audit**
+4. **culture-first-audit**
    - Purpose: Audit organizational culture using Chesky's values-first framework
    - Trigger: Culture health assessment, scaling concerns
    - Integration: Brian Chesky expert
 
-5. **brian-chesky--unscalable-engagement**
+5. **unscalable-engagement**
    - Purpose: Design handcrafted customer engagement for early-stage companies
    - Trigger: Product-market fit, customer understanding, premature scaling
    - Integration: Brian Chesky expert
@@ -242,35 +242,35 @@ Decision: ALL 5 criteria must be YES for CANDIDATE status.
 To create approved skills, run meta-skill for each:
 
 ```
-Skill: brian-chesky--eleven-star-experience
+Skill: eleven-star-experience
 Purpose: Design exceptional experiences using 11-star progression
 Trigger: "Design an exceptional experience" or "exceed customer expectations"
 Integration: Brian Chesky expert
 ```
 
 ```
-Skill: brian-chesky--founder-mode-assessment
+Skill: founder-mode-assessment
 Purpose: Diagnose and improve leader engagement with chief editor model
 Trigger: "Am I too hands-off?" or "founder mode audit"
 Integration: Brian Chesky expert
 ```
 
 ```
-Skill: brian-chesky--crisis-communication-design
+Skill: crisis-communication-design
 Purpose: Design humane, compassionate crisis communications
 Trigger: "layoff letter" or "crisis announcement"
 Integration: Brian Chesky expert
 ```
 
 ```
-Skill: brian-chesky--culture-first-audit
+Skill: culture-first-audit
 Purpose: Audit culture health using values-first framework
 Trigger: "culture audit" or "are we living our values?"
 Integration: Brian Chesky expert
 ```
 
 ```
-Skill: brian-chesky--unscalable-engagement
+Skill: unscalable-engagement
 Purpose: Design handcrafted customer engagement before scaling
 Trigger: "product-market fit" or "we're losing touch with customers"
 Integration: Brian Chesky expert

@@ -30,9 +30,9 @@ The following frameworks have been implemented as invocable skills:
 
 | Framework | Skill | Trigger |
 |-----------|-------|---------|
-| Society of Mind Decomposition | `marvin-minsky--society-decomposition` | "Decompose this system into agents" |
-| Suitcase Word Unpacking | `marvin-minsky--suitcase-word-unpacking` | "Unpack this term" |
-| Negative Expertise Audit | `marvin-minsky--negative-expertise-audit` | "What should I avoid?" |
+| Society of Mind Decomposition | `society-decomposition` | "Decompose this system into agents" |
+| Suitcase Word Unpacking | `suitcase-word-unpacking` | "Unpack this term" |
+| Negative Expertise Audit | `negative-expertise-audit` | "What should I avoid?" |
 
 ### Quick Reference: Common Suitcase Words
 
@@ -398,7 +398,7 @@ Minsky's B-brain and censor agents provide a blueprint for:
 
 ## Negative Expertise (Concept Reference)
 
-> **Skill available:** Use `marvin-minsky--negative-expertise-audit` for full methodology.
+> **Skill available:** Use `negative-expertise-audit` for full methodology.
 
 From Minsky's 1994 essay: "Virtually all knowledge in 'rule-based expert systems' is encoded as positive rules: 'IF X happens, DO Y.' But this misses much of expertise."
 

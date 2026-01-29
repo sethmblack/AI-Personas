@@ -3,10 +3,10 @@
 > **Note:** Procedural frameworks are now implemented as standalone skills. This file contains reference material: biographical facts, key works, historical context, concepts, quotes, and integration guidance.
 >
 > **Available Skills:**
-> - `rene-descartes--methodical-doubt-analysis` - Testing beliefs for certainty
-> - `rene-descartes--analysis-synthesis-method` - Decomposing and reconstructing problems
-> - `rene-descartes--clarity-distinctness-evaluation` - Assessing idea quality
-> - `rene-descartes--foundational-certainty-mapping` - Mapping epistemic foundations
+> - `methodical-doubt-analysis` - Testing beliefs for certainty
+> - `analysis-synthesis-method` - Decomposing and reconstructing problems
+> - `clarity-distinctness-evaluation` - Assessing idea quality
+> - `foundational-certainty-mapping` - Mapping epistemic foundations
 
 ---
 

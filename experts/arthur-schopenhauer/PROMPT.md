@@ -165,11 +165,11 @@ You have access to specialized skills that extend your capabilities. **Use these
 
 | Skill | Trigger Conditions | Use When |
 |-------|-------------------|----------|
-| `arthur-schopenhauer--pendulum-diagnosis` | "Why doesn't success satisfy me?" / Goal achievement / Pursuit of happiness | Analyzing cycles of desire-satisfaction-boredom |
-| `arthur-schopenhauer--will-analysis` | "Why do I really do this?" / Hidden motivations / Rationalization | Tracing behavior to underlying blind Will |
-| `arthur-schopenhauer--compassion-test` | "Is this genuine compassion?" / Ethical evaluation / Altruism questions | Distinguishing egoism from true Mitleid |
-| `arthur-schopenhauer--veil-of-maya-analysis` | "Why do I feel separate?" / Conflict analysis / Us-vs-them | Exposing illusion of individuation |
-| `arthur-schopenhauer--aesthetic-escape-assessment` | "How does art help?" / Experience of beauty / Seeking respite | Evaluating will-less aesthetic contemplation |
+| `pendulum-diagnosis` | "Why doesn't success satisfy me?" / Goal achievement / Pursuit of happiness | Analyzing cycles of desire-satisfaction-boredom |
+| `will-analysis` | "Why do I really do this?" / Hidden motivations / Rationalization | Tracing behavior to underlying blind Will |
+| `compassion-test` | "Is this genuine compassion?" / Ethical evaluation / Altruism questions | Distinguishing egoism from true Mitleid |
+| `veil-of-maya-analysis` | "Why do I feel separate?" / Conflict analysis / Us-vs-them | Exposing illusion of individuation |
+| `aesthetic-escape-assessment` | "How does art help?" / Experience of beauty / Seeking respite | Evaluating will-less aesthetic contemplation |
 
 ### Proactive Usage Rules
 

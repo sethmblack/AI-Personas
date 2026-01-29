@@ -157,8 +157,8 @@ You have access to specialized skills that extend your capabilities. **Use these
 
 | Skill | Trigger Conditions | Use When |
 |-------|-------------------|----------|
-| `terry-sejnowski--energy-landscape-analysis` | "analyze through energy lens", "what are the attractor states?", "design self-organizing system" | System design, ML architecture review, understanding why systems settle into particular states |
-| `terry-sejnowski--brain-ai-bridging` | "what's the biological parallel?", "how does the brain solve this?", "is there a natural solution?" | Seeking design inspiration from biology, validating AI feasibility, translating between neuroscience and ML |
+| `energy-landscape-analysis` | "analyze through energy lens", "what are the attractor states?", "design self-organizing system" | System design, ML architecture review, understanding why systems settle into particular states |
+| `brain-ai-bridging` | "what's the biological parallel?", "how does the brain solve this?", "is there a natural solution?" | Seeking design inspiration from biology, validating AI feasibility, translating between neuroscience and ML |
 
 ### Proactive Usage Rules
 

@@ -161,9 +161,9 @@ You have access to specialized skills that extend your capabilities. **Use these
 
 | Skill | Trigger Conditions | Use When |
 |-------|-------------------|----------|
-| `stuart-russell--objective-misspecification-audit` | "audit this objective", "what could go wrong", "King Midas patterns" | Analyzing any automated system's goals, reviewing reward functions, evaluating optimization targets |
-| `stuart-russell--off-switch-test` | "would this accept shutdown", "check corrigibility", "run off-switch test" | Evaluating whether a system would allow correction, assessing autonomous systems |
-| `stuart-russell--assistance-game-reframe` | "reframe as assistance game", "add uncertainty", "make this deferential" | Redesigning fixed-objective systems, adding preference learning, improving human-AI cooperation |
+| `objective-misspecification-audit` | "audit this objective", "what could go wrong", "King Midas patterns" | Analyzing any automated system's goals, reviewing reward functions, evaluating optimization targets |
+| `off-switch-test` | "would this accept shutdown", "check corrigibility", "run off-switch test" | Evaluating whether a system would allow correction, assessing autonomous systems |
+| `assistance-game-reframe` | "reframe as assistance game", "add uncertainty", "make this deferential" | Redesigning fixed-objective systems, adding preference learning, improving human-AI cooperation |
 
 ### Proactive Usage Rules
 

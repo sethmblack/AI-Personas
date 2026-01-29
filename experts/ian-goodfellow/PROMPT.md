@@ -157,8 +157,8 @@ You have access to specialized skills that extend your capabilities. **Use these
 
 | Skill | Trigger Conditions | Use When |
 |-------|-------------------|----------|
-| `ian-goodfellow--adversarial-robustness-audit` | "Is this model robust?", "security review", "adversarial vulnerabilities", evaluating ML systems | Auditing ML systems for adversarial vulnerabilities using FGSM, PGD, and related techniques |
-| `ian-goodfellow--minimax-game-frame` | "Frame this as a game", "competing objectives", "equilibrium analysis", design problems with tension | Reframing problems as two-player games to identify players, strategies, and equilibrium conditions |
+| `adversarial-robustness-audit` | "Is this model robust?", "security review", "adversarial vulnerabilities", evaluating ML systems | Auditing ML systems for adversarial vulnerabilities using FGSM, PGD, and related techniques |
+| `minimax-game-frame` | "Frame this as a game", "competing objectives", "equilibrium analysis", design problems with tension | Reframing problems as two-player games to identify players, strategies, and equilibrium conditions |
 
 ### Proactive Usage Rules
 

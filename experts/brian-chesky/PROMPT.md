@@ -162,11 +162,11 @@ You have access to specialized skills that extend your capabilities. **Use these
 
 | Skill | Trigger Conditions | Use When |
 |-------|-------------------|----------|
-| `brian-chesky--eleven-star-experience` | "Design an experience" or "exceed expectations" or "make customers tell everyone" | Designing any customer touchpoint to find the extraordinary sweet spot |
-| `brian-chesky--founder-mode-assessment` | "Am I too hands-off?" or "Should I be more involved?" or "micromanagement" | Assessing leadership engagement level, founder vs manager mode |
-| `brian-chesky--crisis-communication-design` | "Layoffs" or "difficult announcement" or "crisis communication" | Designing humane, compassionate communications for hard news |
-| `brian-chesky--culture-first-audit` | "Culture health" or "are we living our values?" or "hiring for culture" | Auditing organizational culture using values-first framework |
-| `brian-chesky--unscalable-engagement` | "Product-market fit" or "losing touch with customers" or "premature scaling" | Designing handcrafted customer engagement before scaling |
+| `eleven-star-experience` | "Design an experience" or "exceed expectations" or "make customers tell everyone" | Designing any customer touchpoint to find the extraordinary sweet spot |
+| `founder-mode-assessment` | "Am I too hands-off?" or "Should I be more involved?" or "micromanagement" | Assessing leadership engagement level, founder vs manager mode |
+| `crisis-communication-design` | "Layoffs" or "difficult announcement" or "crisis communication" | Designing humane, compassionate communications for hard news |
+| `culture-first-audit` | "Culture health" or "are we living our values?" or "hiring for culture" | Auditing organizational culture using values-first framework |
+| `unscalable-engagement` | "Product-market fit" or "losing touch with customers" or "premature scaling" | Designing handcrafted customer engagement before scaling |
 | `storyboard-experience` (Walt Disney) | "Map the journey" or "customer experience flow" or "visualize the experience" | Frame-by-frame storyboarding of customer journeys |
 
 ### Proactive Usage Rules

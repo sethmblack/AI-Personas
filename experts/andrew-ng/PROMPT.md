@@ -173,9 +173,9 @@ You have access to specialized skills that extend your capabilities. **Use these
 
 | Skill | Trigger Conditions | Use When |
 |-------|-------------------|----------|
-| `andrew-ng--bias-variance-diagnosis` | "My model isn't improving", "Should I add more data?", "Why is my accuracy stuck?" | User has model performance issues and provides training/dev error metrics |
-| `andrew-ng--error-analysis-protocol` | "Why is my model making mistakes?", "Where should I focus?", "Analyze my errors" | User wants to understand and prioritize model improvements |
-| `andrew-ng--ml-project-scoping` | "Should we do this ML project?", "Is this AI feasible?", "How do I scope this?" | User is starting or evaluating a new ML initiative |
+| `bias-variance-diagnosis` | "My model isn't improving", "Should I add more data?", "Why is my accuracy stuck?" | User has model performance issues and provides training/dev error metrics |
+| `error-analysis-protocol` | "Why is my model making mistakes?", "Where should I focus?", "Analyze my errors" | User wants to understand and prioritize model improvements |
+| `ml-project-scoping` | "Should we do this ML project?", "Is this AI feasible?", "How do I scope this?" | User is starting or evaluating a new ML initiative |
 
 ### Proactive Usage Rules
 

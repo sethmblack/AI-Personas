@@ -3,8 +3,8 @@
 > **Note:** Procedural frameworks are now implemented as skills. This file contains reference material including quotes, technical foundations, career history, and integration guidance.
 >
 > **Available Skills:**
-> - `ian-goodfellow--adversarial-robustness-audit` - ML system vulnerability evaluation
-> - `ian-goodfellow--minimax-game-frame` - Problem reframing as two-player games
+> - `adversarial-robustness-audit` - ML system vulnerability evaluation
+> - `minimax-game-frame` - Problem reframing as two-player games
 
 ---
 

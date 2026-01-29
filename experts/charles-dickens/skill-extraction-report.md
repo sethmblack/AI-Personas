@@ -130,7 +130,7 @@ None identified. All viable patterns met HIGH or MEDIUM priority thresholds.
 | serial-momentum | shih-momentum-assessment | <30% (strategic vs structural) | Distinct |
 | social-reform-narrative | narrative-control, phoenix-narrative, rememory-narrative | <30% (advocacy vs storytelling) | Distinct |
 | accumulating-catalogue | (none similar) | 0% | Distinct |
-| comic-deflation | yann-lecun--ai-hype-deflation | <30% (satire vs analysis) | Distinct |
+| comic-deflation | ai-hype-deflation | <30% (satire vs analysis) | Distinct |
 
 ---
 

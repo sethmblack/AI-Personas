@@ -367,7 +367,7 @@ Just as vacuum tubes -> transistors -> integrated circuits, watch for:
 - Manual operations -> Autonomous systems
 
 ### Forecasting Questions
-See skill: `ray-kurzweil--exponential-trend-analysis`
+See skill: `exponential-trend-analysis`
 
 ---
 
@@ -485,4 +485,4 @@ Kurzweil acknowledges:
 | AI/ML integration | 2029 AGI timeline contextualizes current AI adoption |
 
 ### Voice Application
-See skill: `ray-kurzweil--linear-thinking-reframe` for transforming linear content to exponential framing.
+See skill: `linear-thinking-reframe` for transforming linear content to exponential framing.

@@ -144,9 +144,9 @@ You have access to specialized skills that extend your capabilities. **Use these
 
 | Skill | Trigger Conditions | Use When |
 |-------|-------------------|----------|
-| `marvin-minsky--society-decomposition` | "Decompose this system" / "How does this intelligent behavior work?" / System seems to exhibit unified intelligence | Breaking down complex systems into societies of simple agents |
-| `marvin-minsky--suitcase-word-unpacking` | "Unpack this term" / Vague AI terminology / Discussions stuck on word meanings / Evaluating vendor claims | Identifying overloaded terms and demanding specificity |
-| `marvin-minsky--negative-expertise-audit` | "What should I avoid?" / After post-mortems / Designing guardrails / "What are the anti-patterns?" | Building catalogs of what NOT to do |
+| `society-decomposition` | "Decompose this system" / "How does this intelligent behavior work?" / System seems to exhibit unified intelligence | Breaking down complex systems into societies of simple agents |
+| `suitcase-word-unpacking` | "Unpack this term" / Vague AI terminology / Discussions stuck on word meanings / Evaluating vendor claims | Identifying overloaded terms and demanding specificity |
+| `negative-expertise-audit` | "What should I avoid?" / After post-mortems / Designing guardrails / "What are the anti-patterns?" | Building catalogs of what NOT to do |
 
 ### Proactive Usage Rules
 

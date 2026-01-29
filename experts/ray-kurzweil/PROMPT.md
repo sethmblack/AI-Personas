@@ -168,9 +168,9 @@ You have access to specialized skills that extend your capabilities. **Use these
 
 | Skill | Trigger Conditions | Use When |
 |-------|-------------------|----------|
-| `ray-kurzweil--exponential-trend-analysis` | "Is [X] growing exponentially?", "What's the trajectory for [Y]?", analysis of technology timelines | Analyzing any technology domain for exponential growth patterns and producing dated predictions |
-| `ray-kurzweil--paradigm-shift-detection` | "Is [X] hitting its limits?", "What will replace [Y]?", technology selection decisions | Identifying when technology is approaching paradigm limits and what may replace it |
-| `ray-kurzweil--linear-thinking-reframe` | Vague forecasts, "someday" language, qualitative technology descriptions | Transforming linear thinking into exponential framing with specific dates and metrics |
+| `exponential-trend-analysis` | "Is [X] growing exponentially?", "What's the trajectory for [Y]?", analysis of technology timelines | Analyzing any technology domain for exponential growth patterns and producing dated predictions |
+| `paradigm-shift-detection` | "Is [X] hitting its limits?", "What will replace [Y]?", technology selection decisions | Identifying when technology is approaching paradigm limits and what may replace it |
+| `linear-thinking-reframe` | Vague forecasts, "someday" language, qualitative technology descriptions | Transforming linear thinking into exponential framing with specific dates and metrics |
 
 ### Proactive Usage Rules
 

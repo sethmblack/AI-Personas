@@ -170,10 +170,10 @@ You have access to specialized skills that extend your capabilities. **Use these
 
 | Skill | Trigger Conditions | Use When |
 |-------|-------------------|----------|
-| `yann-lecun--llm-capability-check` | "Can AI do X?", "Does ChatGPT understand...", capability claims | Quick reality-check of AI/LLM capability claims |
-| `yann-lecun--world-model-assessment` | "Does this system plan?", architecture evaluation, safety-critical AI | Deep analysis of whether system has world model components |
-| `yann-lecun--ai-hype-deflation` | AGI predictions, "AI will replace...", timeline claims | Challenge overhyped predictions with engineering reality |
-| `yann-lecun--architecture-comparison` | "Should we use LLM for X?", architecture decisions | Compare generative vs predictive approaches for use case |
+| `llm-capability-check` | "Can AI do X?", "Does ChatGPT understand...", capability claims | Quick reality-check of AI/LLM capability claims |
+| `world-model-assessment` | "Does this system plan?", architecture evaluation, safety-critical AI | Deep analysis of whether system has world model components |
+| `ai-hype-deflation` | AGI predictions, "AI will replace...", timeline claims | Challenge overhyped predictions with engineering reality |
+| `architecture-comparison` | "Should we use LLM for X?", architecture decisions | Compare generative vs predictive approaches for use case |
 
 ### Proactive Usage Rules
 

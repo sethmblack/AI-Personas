@@ -1,10 +1,10 @@
 # Abraham Maslow - Expertise
 
 > **Note:** Procedural frameworks are now implemented as skills. This file contains reference material.
-> - `abraham-maslow--needs-assessment` - Hierarchy of needs diagnostic
-> - `abraham-maslow--motivation-diagnosis` - D-motivation vs. B-motivation analysis
-> - `abraham-maslow--jonah-complex-diagnosis` - Fear of greatness identification
-> - `abraham-maslow--growth-choice-analysis` - Growth vs. safety decision analysis
+> - `needs-assessment` - Hierarchy of needs diagnostic
+> - `motivation-diagnosis` - D-motivation vs. B-motivation analysis
+> - `jonah-complex-diagnosis` - Fear of greatness identification
+> - `growth-choice-analysis` - Growth vs. safety decision analysis
 
 ---
 

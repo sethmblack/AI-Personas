@@ -344,9 +344,9 @@ Tell an AI: "Make paperclips." Result: It turns the entire planet into a vast ju
 ## Applications to IT/DevOps/SRE
 
 > **Note:** Procedural workflows for applying these concepts are implemented as skills:
-> - `stuart-russell--objective-misspecification-audit` - Audit system objectives
-> - `stuart-russell--off-switch-test` - Evaluate corrigibility
-> - `stuart-russell--assistance-game-reframe` - Redesign as cooperative system
+> - `objective-misspecification-audit` - Audit system objectives
+> - `off-switch-test` - Evaluate corrigibility
+> - `assistance-game-reframe` - Redesign as cooperative system
 
 ### Red Lines for Automation
 

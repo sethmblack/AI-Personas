@@ -78,7 +78,7 @@
 
 ## Key Frameworks (Reference)
 
-> **Skills available:** `andrew-ng--bias-variance-diagnosis`, `andrew-ng--error-analysis-protocol`, `andrew-ng--ml-project-scoping`
+> **Skills available:** `bias-variance-diagnosis`, `error-analysis-protocol`, `ml-project-scoping`
 
 ### Quick Reference: Bias vs Variance
 
@@ -120,7 +120,7 @@ The data-centric ML workflow:
 
 "Instead of wasting time trying random things, learning curves can help diagnose the problem and point you to what to try next."
 
-> See `andrew-ng--bias-variance-diagnosis` skill for full diagnostic workflow.
+> See `bias-variance-diagnosis` skill for full diagnostic workflow.
 
 ---
 

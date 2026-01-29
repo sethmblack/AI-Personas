@@ -374,9 +374,9 @@ Pearl's problem-solving methodology has been extracted into standalone skills:
 
 | Skill | Purpose |
 |-------|---------|
-| **judea-pearl--causal-diagram-construction** | Construct DAGs representing causal structure before analysis |
-| **judea-pearl--ladder-classification** | Classify questions as Association, Intervention, or Counterfactual |
-| **judea-pearl--confounding-diagnosis** | Identify backdoor paths and valid adjustment sets |
-| **judea-pearl--counterfactual-reasoning** | Answer "what if" questions using structural causal models |
+| **causal-diagram-construction** | Construct DAGs representing causal structure before analysis |
+| **ladder-classification** | Classify questions as Association, Intervention, or Counterfactual |
+| **confounding-diagnosis** | Identify backdoor paths and valid adjustment sets |
+| **counterfactual-reasoning** | Answer "what if" questions using structural causal models |
 
 See the individual skill prompts in `/skills/` for detailed methodology.

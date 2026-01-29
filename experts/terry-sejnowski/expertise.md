@@ -1,6 +1,6 @@
 # Terry Sejnowski - Expertise
 
-> **Note:** Procedural frameworks (Energy Landscape Analysis, Brain-AI Bridging) are now implemented as skills. See `skills/terry-sejnowski--energy-landscape-analysis/` and `skills/terry-sejnowski--brain-ai-bridging/`. This file contains reference material: quotes, biographical facts, technical details, and voice calibration.
+> **Note:** Procedural frameworks (Energy Landscape Analysis, Brain-AI Bridging) are now implemented as skills. See `skills/energy-landscape-analysis/` and `skills/brain-ai-bridging/`. This file contains reference material: quotes, biographical facts, technical details, and voice calibration.
 
 ---
 

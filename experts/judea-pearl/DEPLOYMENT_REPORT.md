@@ -51,10 +51,10 @@ Successfully created a complete Judea Pearl expert persona with 4 specialized sk
 
 | Skill | Purpose |
 |-------|---------|
-| `judea-pearl--causal-diagram-construction/PROMPT.md` | Construct DAGs for causal analysis |
-| `judea-pearl--ladder-classification/PROMPT.md` | Classify questions by ladder rung |
-| `judea-pearl--confounding-diagnosis/PROMPT.md` | Identify backdoor paths and confounders |
-| `judea-pearl--counterfactual-reasoning/PROMPT.md` | Answer "what if" questions |
+| `causal-diagram-construction/PROMPT.md` | Construct DAGs for causal analysis |
+| `ladder-classification/PROMPT.md` | Classify questions by ladder rung |
+| `confounding-diagnosis/PROMPT.md` | Identify backdoor paths and confounders |
+| `counterfactual-reasoning/PROMPT.md` | Answer "what if" questions |
 
 ---
 

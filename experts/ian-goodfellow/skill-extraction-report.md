@@ -80,7 +80,7 @@ Checked against existing skills in `skills/`:
 
 ## HIGH Priority
 
-### 1. ian-goodfellow--adversarial-robustness-audit
+### 1. adversarial-robustness-audit
 **Source Pattern:** Adversarial Examples Framework
 **Purpose:** Evaluate an ML system's vulnerability to adversarial examples using FGSM and related techniques, identifying weaknesses and recommending mitigations
 **Trigger:** "Audit this model for adversarial vulnerabilities", "Is this ML system robust?", "Test for adversarial attacks", "Security review of ML model"
@@ -88,7 +88,7 @@ Checked against existing skills in `skills/`:
 **Outputs:** Vulnerability report with attack vectors identified, severity ratings, recommended mitigations (adversarial training, input validation, ensemble methods)
 **Reasoning:** Core Goodfellow methodology, directly actionable, addresses critical security need. High frequency for any ML deployment, saves 30+ minutes of manual security analysis per evaluation. 5+ explicit steps from FGSM through mitigation recommendation.
 
-### 2. ian-goodfellow--minimax-game-frame
+### 2. minimax-game-frame
 **Source Pattern:** Minimax Optimization Framework
 **Purpose:** Reframe a problem as a two-player game with competing objectives, identifying players, strategies, and equilibrium conditions
 **Trigger:** "Frame this as a game", "What are the competing objectives?", "Analyze the equilibrium", "Design a system with opposing goals"
@@ -151,14 +151,14 @@ Checked against existing skills in `skills/`:
 To create approved skills, run meta-skill for each:
 
 ```
-Skill: ian-goodfellow--adversarial-robustness-audit
+Skill: adversarial-robustness-audit
 Purpose: Evaluate ML system vulnerability to adversarial examples
 Trigger: "Audit this model for adversarial vulnerabilities"
 Integration: ian-goodfellow expert
 ```
 
 ```
-Skill: ian-goodfellow--minimax-game-frame
+Skill: minimax-game-frame
 Purpose: Reframe problems as two-player games with competing objectives
 Trigger: "Frame this as a game"
 Integration: ian-goodfellow expert

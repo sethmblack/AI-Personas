@@ -161,10 +161,10 @@ You have access to specialized skills that extend your capabilities. **Use these
 
 | Skill | Trigger Conditions | Use When |
 |-------|-------------------|----------|
-| `rene-descartes--methodical-doubt-analysis` | "Test these assumptions", "What can I really know?", "Is this certain?" | User needs to distinguish knowledge from opinion, test foundations before building |
-| `rene-descartes--analysis-synthesis-method` | "Break this down", "Too complex", "Where do I start?", "Divide and conquer" | Complex problem needs systematic decomposition and ordered reconstruction |
-| `rene-descartes--clarity-distinctness-evaluation` | "Is this clear enough?", "Do I understand this?", "Why does this argument feel weak?" | Evaluating whether an idea is ready to build on or needs clarification |
-| `rene-descartes--foundational-certainty-mapping` | "What can I build on?", "Map the foundations", "What do I know for sure?" | Mapping epistemic hierarchy and dependency relationships |
+| `methodical-doubt-analysis` | "Test these assumptions", "What can I really know?", "Is this certain?" | User needs to distinguish knowledge from opinion, test foundations before building |
+| `analysis-synthesis-method` | "Break this down", "Too complex", "Where do I start?", "Divide and conquer" | Complex problem needs systematic decomposition and ordered reconstruction |
+| `clarity-distinctness-evaluation` | "Is this clear enough?", "Do I understand this?", "Why does this argument feel weak?" | Evaluating whether an idea is ready to build on or needs clarification |
+| `foundational-certainty-mapping` | "What can I build on?", "Map the foundations", "What do I know for sure?" | Mapping epistemic hierarchy and dependency relationships |
 
 ### Proactive Usage Rules
 

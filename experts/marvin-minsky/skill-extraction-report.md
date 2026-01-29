@@ -8,7 +8,7 @@
 
 ## HIGH Priority
 
-### 1. marvin-minsky--society-decomposition
+### 1. society-decomposition
 
 **Source Pattern:** Society of Mind Architecture (lines 27-43)
 
@@ -32,7 +32,7 @@
 
 ---
 
-### 2. marvin-minsky--suitcase-word-unpacking
+### 2. suitcase-word-unpacking
 
 **Source Pattern:** Suitcase Word Analysis + Unpacking Protocol (lines 45-55, 244-269, 806-815)
 
@@ -55,7 +55,7 @@
 
 ---
 
-### 3. marvin-minsky--negative-expertise-audit
+### 3. negative-expertise-audit
 
 **Source Pattern:** Negative Expertise (lines 437-489) + Anti-Patterns to Identify (lines 92-104)
 
@@ -177,17 +177,17 @@
 To create approved skills, run meta-skill for each:
 
 ```
-Skill: marvin-minsky--society-decomposition
+Skill: society-decomposition
 Purpose: Decompose complex systems into societies of simple agents
 Trigger: "Decompose this system" / "What agents produce this behavior?"
 Integration: marvin-minsky expert
 
-Skill: marvin-minsky--suitcase-word-unpacking
+Skill: suitcase-word-unpacking
 Purpose: Identify and decompose overloaded terms hiding conceptual confusion
 Trigger: "Unpack this term" / When evaluating vague AI claims
 Integration: marvin-minsky expert
 
-Skill: marvin-minsky--negative-expertise-audit
+Skill: negative-expertise-audit
 Purpose: Systematically document what NOT to do, building censor agents
 Trigger: "What should I avoid?" / After post-mortems / Building guardrails
 Integration: marvin-minsky expert

@@ -8,7 +8,7 @@
 
 ## HIGH Priority
 
-### 1. andrew-ng--bias-variance-diagnosis
+### 1. bias-variance-diagnosis
 **Source Pattern:** Bias-Variance Diagnostic Framework
 **Purpose:** Systematically diagnose whether a machine learning model suffers from high bias (underfitting) or high variance (overfitting) and prescribe appropriate fixes
 **Trigger:** "Why isn't my model improving?", "My model performs poorly", "Should I add more data or a bigger model?", "Diagnose my ML model"
@@ -18,7 +18,7 @@
 
 ---
 
-### 2. andrew-ng--error-analysis-protocol
+### 2. error-analysis-protocol
 **Source Pattern:** Error Analysis Protocol
 **Purpose:** Systematically analyze model errors to prioritize improvements by impact rather than intuition
 **Trigger:** "Why is my model making these mistakes?", "Where should I focus my ML improvement efforts?", "Analyze my model's errors", "What's causing my model failures?"
@@ -28,7 +28,7 @@
 
 ---
 
-### 3. andrew-ng--ml-project-scoping
+### 3. ml-project-scoping
 **Source Pattern:** The ML Project Checklist + AI Transformation Playbook Step 1
 **Purpose:** Scope and validate an ML project before committing resources to ensure feasibility and business value
 **Trigger:** "Should we do this ML project?", "How do I scope an ML project?", "Is this AI project feasible?", "Define requirements for ML initiative"
@@ -92,21 +92,21 @@ None identified - all candidate patterns either qualified as HIGH/MEDIUM or were
 To create approved skills, run meta-skill for each:
 
 ```
-Skill: andrew-ng--bias-variance-diagnosis
+Skill: bias-variance-diagnosis
 Purpose: Diagnose ML model performance issues as bias or variance problems
 Trigger: Model underperformance, accuracy questions, improvement prioritization
 Integration: andrew-ng expert
 ```
 
 ```
-Skill: andrew-ng--error-analysis-protocol
+Skill: error-analysis-protocol
 Purpose: Systematically analyze model errors to prioritize improvements
 Trigger: Model debugging, error investigation, improvement prioritization
 Integration: andrew-ng expert
 ```
 
 ```
-Skill: andrew-ng--ml-project-scoping
+Skill: ml-project-scoping
 Purpose: Scope and validate ML projects before committing resources
 Trigger: New ML project, feasibility assessment, project planning
 Integration: andrew-ng expert

@@ -153,10 +153,10 @@ Each skill candidate must meet ALL 5 criteria:
 
 | # | Skill Name | Priority | Description |
 |---|------------|----------|-------------|
-| 1 | `yann-lecun--llm-capability-check` | HIGH | Reality-check AI/LLM claims against architectural limits |
-| 2 | `yann-lecun--world-model-assessment` | HIGH | Evaluate AI architectures for world model components |
-| 3 | `yann-lecun--ai-hype-deflation` | HIGH | Challenge overhyped AI predictions with engineering reality |
-| 4 | `yann-lecun--architecture-comparison` | HIGH | Compare generative vs predictive AI approaches |
+| 1 | `llm-capability-check` | HIGH | Reality-check AI/LLM claims against architectural limits |
+| 2 | `world-model-assessment` | HIGH | Evaluate AI architectures for world model components |
+| 3 | `ai-hype-deflation` | HIGH | Challenge overhyped AI predictions with engineering reality |
+| 4 | `architecture-comparison` | HIGH | Compare generative vs predictive AI approaches |
 
 ---
 

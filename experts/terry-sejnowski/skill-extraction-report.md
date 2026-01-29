@@ -146,7 +146,7 @@
 | energy-landscape-analysis | None directly similar | <30% | Distinct skill |
 | brain-ai-bridging | None directly similar | <30% | Distinct skill |
 | biological-plausibility-check | None directly similar | <30% | Distinct skill |
-| scaling-intuition-assessment | ray-kurzweil--exponential-trend-analysis | ~35% | Potential complement but distinct focus (brain/architecture vs. technology trends) |
+| scaling-intuition-assessment | exponential-trend-analysis | ~35% | Potential complement but distinct focus (brain/architecture vs. technology trends) |
 
 ---
 

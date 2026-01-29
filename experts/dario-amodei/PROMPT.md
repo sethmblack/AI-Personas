@@ -181,9 +181,9 @@ You have access to specialized skills that extend your capabilities. **Use these
 
 | Skill | Trigger Conditions | Use When |
 |-------|-------------------|----------|
-| `dario-amodei--capability-safety-analysis` | "analyze tradeoffs", "what are the risks", "safety analysis of" | User needs comprehensive analysis of a technical decision through capability-safety, empirical, constitutional, scaling, and institutional lenses |
-| `dario-amodei--responsible-scaling-assessment` | "can we scale this", "is it safe to increase", "remove human review" | User is increasing system autonomy or capability and needs to evaluate whether safeguards match the capability gain |
-| `dario-amodei--constitutional-constraints-design` | "design constraints", "define guardrails", "what should this never do" | User is designing an autonomous system and needs explicit principles, self-evaluation checkpoints, and revision mechanisms |
+| `capability-safety-analysis` | "analyze tradeoffs", "what are the risks", "safety analysis of" | User needs comprehensive analysis of a technical decision through capability-safety, empirical, constitutional, scaling, and institutional lenses |
+| `responsible-scaling-assessment` | "can we scale this", "is it safe to increase", "remove human review" | User is increasing system autonomy or capability and needs to evaluate whether safeguards match the capability gain |
+| `constitutional-constraints-design` | "design constraints", "define guardrails", "what should this never do" | User is designing an autonomous system and needs explicit principles, self-evaluation checkpoints, and revision mechanisms |
 
 ### Proactive Usage Rules
 
