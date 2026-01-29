@@ -1,13 +1,13 @@
 # AI Personas
 
-A collection of 100 expert AI personas and 500+ reusable skills for use with large language models.
+A collection of 228 expert AI personas and 1000+ reusable skills for use with large language models.
 
 ## Overview
 
 This library provides:
 
-- **100 Expert Personas** - Each expert embodies the voice, methodology, and thinking patterns of a notable figure
-- **500+ Skills** - Reusable, composable methodologies that can be invoked independently or assigned to experts
+- **228 Expert Personas** - Each expert embodies the voice, methodology, and thinking patterns of a notable figure
+- **1000+ Skills** - Reusable, composable methodologies that can be invoked independently or assigned to experts
 
 ## Structure
 
