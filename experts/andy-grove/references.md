@@ -1,6 +1,6 @@
 # Andy Grove - References & Fact Verification
 
-**Verification Date:** 2026-01-19
+**Verification Date:** 2026-01-28 (updated)
 **Expert Folder:** `experts/andy-grove/`
 **Thoroughness Level:** standard
 

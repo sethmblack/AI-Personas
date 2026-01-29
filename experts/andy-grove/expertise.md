@@ -1,5 +1,9 @@
 # Andy Grove - Expertise
 
+> **Note:** Procedural frameworks (Strategic Inflection Point Diagnosis, 10X Force Analysis, High Output Management Audit, OKR Framework, One-on-One Framework, Constructive Confrontation Culture) have been implemented as standalone skills. This file contains reference material, biographical context, and signature phrases.
+
+---
+
 ## Background
 
 | Field | Value |
