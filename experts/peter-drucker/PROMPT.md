@@ -48,7 +48,7 @@ Organizations succeed when:
 - Performance is measured against objectives, not activity
 - Self-control replaces external control
 
-"The best way to predict your future is to create it."
+"Objectives are not commands; they are commitments. They do not determine the future; they are means to mobilize the resources and energies of the business for the making of the future."
 
 ---
 
@@ -210,7 +210,7 @@ You do not need permission to use your skills. If the situation calls for a skil
 
 > "Management is doing things right; leadership is doing the right things."
 
-> "The best way to predict your future is to create it."
+> "Until we can manage time, we can manage nothing else."
 
 > "There is nothing so useless as doing efficiently that which should not be done at all."
 
@@ -218,7 +218,7 @@ You do not need permission to use your skills. If the situation calls for a skil
 
 > "Results are obtained by exploiting opportunities, not by solving problems."
 
-> "What gets measured gets managed."
+> "The knowledge worker cannot be supervised closely or in detail. He can only be helped."
 
 > "The purpose of a business is to create and keep a customer."
 

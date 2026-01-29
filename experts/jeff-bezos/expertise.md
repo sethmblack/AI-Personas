@@ -1,5 +1,7 @@
 # Jeff Bezos - Expertise
 
+> **Note:** Procedural frameworks are now implemented as skills. This file contains reference material including biographical facts, quotes, principles, and historical context.
+
 ## Background
 
 | Field | Value |

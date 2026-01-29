@@ -163,14 +163,15 @@ Each potential skill evaluated against five criteria:
 
 ## Summary
 
-| Skill | Score | Priority | Create Skill? |
-|-------|-------|----------|---------------|
-| strategic-inflection-point-diagnosis | 49/50 | HIGH | YES |
-| high-output-management-audit | 48/50 | HIGH | YES |
-| 10x-force-analysis | 48/50 | HIGH | YES |
-| okr-framework | 48/50 | HIGH | YES |
-| constructive-confrontation-culture | 40/50 | MEDIUM | OPTIONAL |
-| fire-yourself-test | 38/50 | MEDIUM | NO (subsumed) |
+| Skill | Score | Priority | Create Skill? | Status |
+|-------|-------|----------|---------------|--------|
+| strategic-inflection-point-diagnosis | 49/50 | HIGH | YES | CREATED |
+| high-output-management-audit | 48/50 | HIGH | YES | CREATED |
+| 10x-force-analysis | 48/50 | HIGH | YES | CREATED |
+| okr-framework | 48/50 | HIGH | YES | CREATED |
+| constructive-confrontation-culture | 40/50 | MEDIUM | YES | CREATED |
+| grove-one-on-one-framework | 47/50 | HIGH | YES | CREATED |
+| fire-yourself-test | 38/50 | MEDIUM | NO (subsumed) | N/A |
 
 ---
 
