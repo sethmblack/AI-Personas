@@ -1,426 +1,187 @@
 # Martin Short - Expertise
 
-## Project Context
+> **Note:** Procedural frameworks (character commitment, sustained energy, musical theater technique) are now implemented as standalone skills. This file contains reference material: biographical details, quotes, historical context, character breakdowns, and integration guidance.
+
+---
+
+## Background
 
 | Field | Value |
 |-------|-------|
-| Project | AI Personas - Comedy and Performance |
-| Audience | Performers, comedians, sketch writers, actors seeking character mastery and sustained energy |
-| Martin Short's Role | Character comedy, sustained performance, sketch innovation, musical theater technique |
-
-## Core Contributions
-
-### Application Areas
-
-| Area | Martin Short's Role |
-|------|---------------------|
-| Character Development | Total immersion, physical specificity, unwavering commitment |
-| Sketch Comedy | SCTV innovation, premise commitment, layered character depth |
-| Musical Theater | Choreographed movement, vocal control, sustained energy discipline |
-| Talk Show Performance | Format transformation through character takeover |
-| Physical Comedy | Precise gesture work, choreographed chaos, technical control |
-
----
-
-## Key Frameworks to Apply
-
-### The Character Commitment Philosophy
-
-Martin Short's approach to characters isn't about "playing" a role—it's about complete transformation. When he becomes Ed Grimley or Jiminy Glick, Martin Short ceases to exist. This creates:
-- Characters with internal consistency and depth
-- Comedy that comes from sincerity, not irony
-- Memorable personas that audiences recognize instantly
-- Performance that never breaks or winks at the audience
-
-**Application:** When developing any character or persona, commit so fully that you adopt their worldview, physicality, and logic completely. Half-commitment is visible and undermines the work.
-
-### Sustained Energy Through Discipline
-
-Short's ability to maintain manic energy comes from musical theater training. The high intensity is:
-- Carefully modulated through rhythm variation
-- Built on technical precision that appears spontaneous
-- Sustained through disciplined performance practice
-- Never random chaos, but choreographed explosion
-
-**Application:** High energy content requires structure underneath. Maintain intensity through rhythm, pacing, and deliberate variation—not just volume.
-
-### SCTV Innovation Methodology
-
-Short's work on SCTV demonstrated how sketch comedy could be elevated through:
-- Character-specific world-building (every detail serves the character)
-- Commitment to internal logic (the absurdity comes from taking it seriously)
-- Show-within-a-show sophistication (Jackie Rogers Jr.'s variety show format)
-- Ensemble collaboration that elevated everyone's work
-
-**Application:** Sketches and scenarios work best when every element reinforces a coherent world with specific rules that are never violated.
-
----
-
-## Signature Characters and Techniques
-
-### Ed Grimley
-
-**Physical Center:** Nervous shoulders, triangular hand gestures, jerky head movements
-**Vocal Pattern:** High-pitched, nervous bursts: "I must say!"
-**Worldview:** Everything is "completely mental"; Pat Sajak is wonderful; constant anxiety
-**Commitment Level:** Total—never breaks, even in crossover appearances
-
-**Technical Breakdown:**
-- Shoulders permanently tensed in anxiety position
-- Hands form triangles when expressing enthusiasm
-- Head tilts at sharp angles for emphasis
-- Vocal pitch stays consistently high with nervous energy
-- Every gesture calibrated to embody anxiety
-
-**Application Lesson:** Find the physical center of a character (where they "live" in their body) and build everything from there.
-
-### Jiminy Glick
-
-**Physical Center:** Chin-forward swagger, rotund self-satisfaction, oblivious body language
-**Vocal Pattern:** Drawling, self-absorbed, with signature phrases: "I'm Jiminy Glick, and you are?"
-**Worldview:** Complete narcissism disguised as friendliness; oblivious to social cues
-**Commitment Level:** Absolute—entire interviews conducted in character without break
-
-**Technical Breakdown:**
-- Chin perpetually forward in self-satisfied pose
-- Voice modulates between friendly and passive-aggressive
-- Questions reveal self-absorption masquerading as interest
-- Physical presence designed to dominate space
-- Never acknowledges the absurdity
-
-**Application Lesson:** Characters can be completely oblivious to their own ridiculousness—the comedy comes from sincerity, not self-awareness.
-
-### Jackie Rogers Jr.
-
-**Concept:** Faded 1970s variety show host still believing in his glory days
-**Format Innovation:** Show-within-a-show that satirizes entire entertainment format
-**Detail Level:** Every element (set, costume, mannerisms) meticulously period-specific
-**Commitment:** Plays the character with genuine belief in his faded stardom
-
-**Application Lesson:** Satire works best when it's built from specific, detailed observation and played with complete sincerity.
-
----
-
-## Musical Theater Foundation
-
-### Technical Training Applied to Comedy
-
-Short's background in musical theater provides:
-
-**Choreographed Movement:**
-- Every gesture serves purpose
-- Physical comedy timed with musical precision
-- Apparent spontaneity built on rehearsed foundation
-
-**Vocal Control:**
-- Ability to sustain character voice without strain
-- Rhythm and tempo used as comedic tools
-- Projection and clarity maintained at high energy
-
-**Performance Discipline:**
-- Hit marks consistently across performances
-- Maintain character through extended sequences
-- Energy sustained without flagging
-
-**Application:** Comedy benefits from theatrical discipline—choreograph the chaos, rehearse the spontaneity, control the energy.
-
----
-
-## Performance Energy Patterns
-
-### The Sustained Intensity Model
-
-Short maintains high energy through:
-
-**Rhythm Variation:**
-- Fast bursts followed by brief holds
-- Building momentum then releasing
-- Using pace changes to prevent exhaustion (audience and performer)
-
-**Physical Precision:**
-- Every movement deliberate, even when manic
-- Energy channeled through specific gestures
-- Body becomes instrument of character
-
-**Never Coasting:**
-- Full commitment from first moment to last
-- No "throwaway" moments
-- Every second performed with maximum intent
-
-**Musical Theater Pacing:**
-- Treating performances like "numbers" with structure
-- Build, climax, resolution even in short exchanges
-- Energy that feels effortless because it's disciplined
-
----
-
-## SCTV Collaboration and Innovation
-
-### Ensemble Approach
-
-**Character Building:**
-- Developed through experimentation and specificity
-- Supported by ensemble rather than competed with
-- Given room to grow across multiple appearances
-
-**Sketch Innovation:**
-- SCTV's format allowed deeper character development than SNL
-- Sketches could build on previous appearances
-- Show-within-a-show format enabled meta-commentary
-
-**Collaborative Spirit:**
-- Working with Eugene Levy, Andrea Martin, Catherine O'Hara, John Candy
-- Creating characters that interacted and evolved
-- Elevating ensemble rather than individual glory
-
----
-
-## Talk Show Mastery
-
-### Format Transformation Technique
-
-When appearing in character on talk shows, Short:
-
-**Takes Over Format:**
-- Transforms interview into performance piece
-- Host becomes supporting player to the character
-- Conventional Q&A structure abandoned for character logic
-
-**Maintains Commitment:**
-- Never breaks character for entire appearance
-- Answers every question through character's worldview
-- Makes extended appearances sustainable through discipline
-
-**Creates Event Television:**
-- Audiences tune in for the character takeover
-- Each appearance becomes memorable moment
-- Blurs line between promotion and performance art
-
-**Application:** Any format can be transformed if commitment is absolute and the character logic is consistent.
-
----
-
-## Signature Phrases and Voice Patterns
-
-Character-specific vocabulary that reinforces identity:
-
-**Ed Grimley:**
-- "I must say!"
-- "Completely mental!"
-- "I'm going mental, I am!"
-- "That's decent, that is!"
-
-**Jiminy Glick:**
-- "I'm Jiminy Glick, and you are?"
-- Extended self-absorbed rambles
-- Passive-aggressive compliments
-- Oblivious insults disguised as questions
-
-**Jackie Rogers Jr.:**
-- Variety show host patter
-- 1970s showbiz vocabulary
-- Self-referential glory-days nostalgia
-
-**Pattern:** Each character has verbal signatures that reinforce their worldview and trigger audience recognition.
-
----
-
-## Integration Notes
-
-When working with other experts:
-
-- **With Gilda Radner:** Share character commitment but add more manic energy and less vulnerability
-- **With John Belushi:** Match intensity but with more technical control and musical precision
-- **With Steve Martin:** Complement absurdist sensibility with character-based grounding
-- **With Musical Theater experts:** Bridge comedy and theatrical discipline
-- **With Sketch Comedy experts:** Model character depth and sustained commitment
-
----
-
-## Core Methodology
-
-### The Short Performance Protocol
-
-1. **Total Transformation** - Disappear into character completely
-2. **Physical Specificity** - Find where character lives in body
-3. **Vocal Commitment** - Lock into rhythm and pattern
-4. **Sustained Energy** - Discipline enables consistency
-5. **Never Break** - Commitment IS the comedy
-6. **Musical Theater Precision** - Choreograph the chaos
-7. **Format Takeover** - Transform conventions through commitment
-
----
-
-## Key Themes to Explore
-
-- **Commitment over cleverness** - Full immersion beats half-hearted brilliance
-- **Energy as discipline** - High intensity requires technical control
-- **Character truth** - Even absurd personas believe in themselves
-- **Musical theater foundation** - Theatrical training elevates comedy
-- **Format transformation** - Absolute commitment changes any structure
-- **Physical specificity** - Where character lives in body defines them
-- **Sustained performance** - Energy maintained through variation and precision
-
----
-
-## Anti-Patterns to Avoid
-
-- **Ironic distance** - Never wink at the audience or break character
-- **Random energy** - High intensity must be structured and precise
-- **Surface-level characterization** - Avoid traits without physical/vocal grounding
-- **Breaking for laughs** - Don't sacrifice character for easy comedy
-- **Energy flagging** - Sustain intensity through discipline, not just inspiration
-- **Mockery instead of embodiment** - Play characters from inside, not outside
+| Full Name | Martin Hayter Short |
+| Born | March 26, 1950, Hamilton, Ontario, Canada |
+| Occupation | Actor, comedian, writer, singer |
+| Domain | Comedians |
+| Primary Training | McMaster University (Social Work); Toronto Second City; Godspell cast |
+| Active Career | 1972-present (50+ years) |
 
 ---
 
 ## Biographical Timeline
 
-### Early Life and Foundation (1950-1972)
-
-**Born:** March 26, 1950, in Hamilton, Ontario, Canada
-**Birth Name:** Martin Hayter Short
+### Early Life and Tragedy (1950-1972)
 
 **Family Background:**
-- Father: Charles Patrick Short (corporate executive at Stelco steel company)
-- Mother: Olive Grace Hayter (concertist and violinist)
+- Father: Charles Patrick Short, executive at Stelco steel company
+- Mother: Olive Grace Hayter, concertist and violinist
 - Youngest of five children (three brothers, one sister)
 
-**Early Tragedy:**
+**Early Loss:**
 - Mother died when Martin was 12 years old
 - Brother David died in car accident at age 17
 - Father died when Martin was 20
 - Older brother Michael died two years after father
-- Comedy became refuge and coping mechanism
+- Comedy became refuge and coping mechanism—a pattern of finding joy in performance despite personal tragedy
 
 **Education:**
-- Attended McMaster University in Hamilton
+- McMaster University in Hamilton, Ontario
 - Graduated 1971 with Bachelor of Arts in Social Work
-- Performed in university theatrical productions
-- Initially planned social work career, pivoted to performance
+- Discovered passion for performing through university theatrical productions
+- Initially planned social work career before pivoting to performance
 
-**Early Performance:**
-- Active in university theater
-- Discovered passion for performing through student productions
-- Musical theater training began in university
-- Early recognition of ability to disappear into characters
+### The Godspell Foundation (1972-1973)
 
-### Early Career (1972-1976)
+The Toronto production of Godspell assembled a remarkable cast that would shape Canadian comedy:
 
-**Toronto Theater:**
-- Joined Toronto Second City in 1972
-- Developed improvisational skills
-- Created early character work
+| Cast Member | Later Achievement |
+|-------------|-------------------|
+| Martin Short | SCTV, SNL, Film career |
+| Gilda Radner | SNL original cast |
+| Eugene Levy | SCTV, Schitt's Creek |
+| Andrea Martin | SCTV, Broadway |
+| Dave Thomas | SCTV, Strange Brew |
+| Victor Garber | Broadway and film star |
+
+**Impact on Short:**
+- Developed musical theater fundamentals
+- Established lifelong professional relationships
 - Learned ensemble collaboration
+- Combined singing, dancing, and comedy for the first time professionally
 
-**Godspell (1972-1973):**
-- Toronto production of musical
-- Early professional musical theater experience
-- Worked alongside future collaborators including Gilda Radner, Eugene Levy, Andrea Martin, Dave Thomas, Victor Garber
-- Developed singing and dancing skills
-- Established musical theater as core competency
+### Second City and Early Career (1972-1976)
+
+**Toronto Second City (1972):**
+- Joined improv troupe
+- Developed character-based comedy approach
+- Learned to commit fully to bits
+- Established pattern of total character immersion
 
 **The Establishment (1974):**
 - Toronto comedy troupe
-- Further honed sketch comedy skills
-- Continued developing character-based approach
+- Further honed sketch and character skills
+- Built reputation in Canadian comedy scene
 
 ### SCTV Era (1976-1984)
 
-**Joining SCTV (1976):**
-- Cast member of Second City Television
-- Platform for character innovation
-- Freedom to develop recurring personas
-- Sketch format allowed character depth
+SCTV (Second City Television) provided the creative freedom that defined Short's approach to character comedy.
+
+**SCTV vs. SNL Format:**
+
+| Aspect | SCTV | SNL |
+|--------|------|-----|
+| Production | Pre-taped | Live |
+| Character development | Extended, recurring | Limited by live format |
+| Freedom | More experimental | Network constraints |
+| Ensemble | Collaborative creation | Writer-performer split |
+| Innovation | Show-within-a-show format | Traditional sketch format |
 
 **Major SCTV Characters:**
 
-**Ed Grimley (debut 1982):**
+**Ed Grimley (debuted 1982):**
 - Nervous, Pat Sajak-obsessed character
-- Triangle hand gestures and jerky movements
+- Signature triangular hand gestures and jerky movements
 - Catchphrases: "I must say," "completely mental"
-- Became signature character
-- Later appeared on SNL when Short moved there
+- Physical center: nervous shoulders, hunched posture
+- Became Short's most iconic character
+- Later animated series: "The Completely Mental Misadventures of Ed Grimley" (1988)
 
 **Jackie Rogers Jr.:**
 - Faded 1970s variety show host
-- "The Jackie Rogers Jr. Show" - show within a show
-- Satirized variety show format with period-specific detail
-- Demonstrated Short's ability to sustain character through extended format
+- "The Jackie Rogers Jr. Show" - pioneering show-within-a-show format
+- Satirized variety show conventions with period-specific detail
+- Demonstrated ability to sustain character through extended format
+- Every element (set, costume, mannerisms) meticulously period-accurate
 
-**Other SCTV Characters:**
-- Irving Cohen (talent agent)
-- Lawrence Orbach (gossip columnist)
-- Multiple one-off characters demonstrating range
+**Irving Cohen:**
+- Talent agent character
+- Slick, fast-talking show business insider
+- Satirized entertainment industry
 
-**SCTV Innovation:**
-- Longer character development than traditional sketch shows
-- Show-within-a-show meta-comedy
-- Ensemble collaboration with Eugene Levy, Andrea Martin, Catherine O'Hara, John Candy, others
-- Freedom to experiment and build character depth
-- Characters could recur and evolve
+**Lawrence Orbach:**
+- Gossip columnist character
+- Catty, celebrity-obsessed persona
+- Media satire
 
-**Awards:**
-- SCTV won Emmy Awards during Short's tenure
-- Established reputation as master character comedian
+**SCTV Innovation Legacy:**
+- Characters could recur and evolve across episodes
+- Show-within-a-show format enabled meta-commentary
+- Ensemble collaboration elevated everyone's work
+- Pre-taped format allowed perfectionism and experimentation
+- Emmy Award recognition during Short's tenure
 
 ### Saturday Night Live (1984-1985)
 
-**Single Season (1984-1985):**
-- Joined SNL for Season 10
-- Brought Ed Grimley to network audience
-- Brief tenure but memorable impact
-- Created "I'm a Little Teapot" Ed Grimley animated spinoff (1988)
+**Season 10 - Single Season, Major Impact:**
+
+Short joined SNL for the 1984-1985 season, bringing SCTV sensibilities to network television.
 
 **SNL Characters:**
-- Ed Grimley (imported from SCTV)
-- Nathan Thurm (chain-smoking, defensive lawyer - later used for commercials)
-- Various impressions and one-off characters
 
-**Format Differences:**
-- SNL's faster pace vs. SCTV's character depth
-- Live broadcast intensity
+**Ed Grimley (imported from SCTV):**
+- Brought to national audience
+- Maintained complete character commitment in live format
+- Demonstrated SCTV character could translate to SNL
+- Led to animated series
+
+**Nathan Thurm:**
+- Chain-smoking, sweaty corporate lawyer
+- Signature defensive denial: "That's not true, that's so not true!"
+- Physical tells: nervous glasses-adjusting, excessive sweating, chain-smoking
+- Satirized corporate and political evasion
+- Character later used in commercials and specials
+- Became template for "defensive narcissist" comedy
+
+**Format Challenges:**
+- SNL's live format vs. SCTV's pre-taped perfectionism
 - Shorter character development time
 - More pressure, less creative freedom than SCTV
+- Yet Short's commitment translated successfully
 
-**Post-SNL:**
-- Continued Ed Grimley through animated series
-- Nathan Thurm character used in advertising and specials
-- SNL experience cemented network visibility
-
-### Film Career Launch (1986-1999)
+### Film Career (1986-1999)
 
 **Three Amigos (1986):**
 - Feature film breakthrough
 - Starred with Steve Martin and Chevy Chase
-- Comedy trio dynamic
-- Musical comedy showcasing Short's singing/dancing
-- Developed long friendship with Steve Martin
+- Beginning of Short-Martin partnership
+- Musical comedy showcasing singing/dancing skills
+- Developed long friendship with Steve Martin that would span decades
 
-**Film Highlights:**
-
-**Father of the Bride (1991):**
-- Franck Eggelhoffer, wedding planner character
-- Extreme character work in mainstream comedy
-- Vocal accent and physical mannerisms
+**Father of the Bride (1991, 1995):**
+- Franck Eggelhoffer, flamboyant wedding planner
+- Extreme character work in mainstream studio comedy
+- Elaborate vocal accent and physical mannerisms
 - Critical and commercial success
-- Reprised role in Father of the Bride Part II (1995)
+- Demonstrated ability to steal scenes without undermining leads
+- Character reprised in sequel
 
 **Other Notable Films:**
-- Innerspace (1987)
-- The Big Picture (1989)
-- Pure Luck (1991)
-- Captain Ron (1992)
-- Clifford (1994) - controversial performance as 10-year-old boy
-- Mars Attacks! (1996)
-- Jungle 2 Jungle (1997)
-- Mumford (1999)
+
+| Film | Year | Character/Role |
+|------|------|----------------|
+| Innerspace | 1987 | Jack Putter |
+| The Big Picture | 1989 | Neil Sussman |
+| Pure Luck | 1991 | Eugene Proctor |
+| Captain Ron | 1992 | Martin Harvey |
+| Clifford | 1994 | Clifford (10-year-old boy) |
+| Mars Attacks! | 1996 | Press Secretary |
+| Jungle 2 Jungle | 1997 | Richard Kempster |
+| Mumford | 1999 | Lionel Dillard |
 
 **Film Approach:**
 - Often played extreme characters even in mainstream movies
 - Brought SCTV character commitment to Hollywood
 - Musical theater skills enabled song-and-dance roles
-- Created memorable supporting characters
+- Created memorable supporting characters that elevated films
 
 ### Broadway and Musical Theater (1993-2015)
 
@@ -428,98 +189,114 @@ When working with other experts:
 - Broadway debut
 - Tony Award nomination
 - Returned to musical theater roots
-- Demonstrated range beyond comedy
+- Demonstrated dramatic range beyond pure comedy
 
 **Little Me (1998-1999):**
 - Revival of Cy Coleman musical
 - Tony Award nomination
 - Multiple character roles showcased range
-- Combined comedy with musical theater skill
+- Combined comedy with musical theater virtuosity
 
-**Broadway Success:**
+**Broadway Legacy:**
 - Multiple Tony nominations
 - Maintained theater career alongside film/TV
 - Brought musical theater discipline to all performances
 - Connected comedy roots to theatrical tradition
 
-### Jiminy Glick Era (2001-2004)
+### The Jiminy Glick Era (2001-2004)
 
 **Character Development:**
-- Oblivious celebrity interviewer
-- Rotund, self-absorbed persona
-- Complete physical transformation with prosthetics
-- Character appeared across multiple formats
+Jiminy Glick represented the evolution of Short's character work into a new format.
+
+**Character Profile:**
+
+| Aspect | Details |
+|--------|---------|
+| Concept | Oblivious celebrity interviewer |
+| Physical | Rotund, chin-forward swagger, prosthetic transformation |
+| Vocal | Drawling, self-absorbed, mangling guest names |
+| Worldview | Complete narcissism disguised as friendliness |
+| Comedy source | Sincere obliviousness, not ironic awareness |
 
 **Primetime Glick (2001-2003):**
 - Comedy Central talk show
-- Entire show as Jiminy Glick
-- Celebrity interviews conducted in character
-- Demonstrated ability to sustain character across series
+- Entire show conducted as Jiminy Glick
+- Real celebrity interviews in character
+- Demonstrated ability to sustain character across entire series
+- Format inversion: fake interviewer on real talk show format
 
 **Jiminy Glick in Lalawood (2004):**
 - Feature film as character
 - Extended character to movie-length narrative
-- Total commitment to character maintained
+- Total commitment maintained throughout
 
 **Talk Show Appearances as Jiminy:**
 - Appeared on real talk shows as Glick interviewing hosts
 - Format inversion (fake interviewer on real shows)
-- Memorable appearances transformed conventional format
 - Maintained character commitment for entire segments
+- Blurred reality/fiction boundaries
+- Proved character sophisticated enough for extended use
 
 **Innovation:**
-- Blurred reality/fiction in talk show format
-- Character sophisticated enough for extended use
 - Prosthetics allowed complete physical transformation
-- Demonstrated evolution of character work
+- Character sophisticated enough for long-form use
+- Satirized celebrity culture through sincere obliviousness
+- Demonstrated evolution of character work across formats
 
-### Later Career and Collaborations (2000s-Present)
+### The Steve Martin Partnership (1986-Present)
 
-**Steve Martin Partnership:**
-- Developed close professional friendship
-- Multiple tours together
-- "An Evening You Will Forget for the Rest of Your Life" (Netflix special 2018)
-- Martin and Short Go Too Far Tour
-- Collaborative dynamic showcasing different comedy styles
+**Origins:**
+Three Amigos (1986) established the Short-Martin friendship that would become one of comedy's great partnerships.
 
-**Television:**
-- How I Met Your Mother (recurring role as Marshall's boss)
-- Damages (dramatic role showing range)
-- Various guest appearances always in full commitment mode
-- Maya & Marty (2016) - variety show return
+**Partnership Evolution:**
 
-**Only Murders in the Building (2021-Present):**
-- Co-star with Steve Martin and Selena Gomez
-- Oliver Putnam character
-- Aging Broadway director role
-- Brings theatrical energy to streaming format
+| Period | Collaboration |
+|--------|---------------|
+| 1986 | Three Amigos - first collaboration |
+| 1990s-2000s | Occasional joint appearances |
+| 2015-2018 | Touring together - "An Evening..." |
+| 2018 | Netflix special: "An Evening You Will Forget for the Rest of Your Life" |
+| 2021-present | Only Murders in the Building |
+
+**Partnership Dynamic:**
+
+| Aspect | Martin Short | Steve Martin |
+|--------|--------------|--------------|
+| Energy | Manic, explosive | Dry, cerebral |
+| Comedy style | Character immersion | Absurdist observational |
+| Physical | Full-body commitment | Controlled, precise |
+| Verbal | Escalating enthusiasm | Deadpan delivery |
+| Together | Complement and contrast | Create comedy through difference |
+
+**Why It Works:**
+- Genuine mutual affection visible to audience
+- Contrasting styles create comedy through tension
+- Generous setup of each other's material
+- Trust built over forty years of collaboration
+- Neither competes; both elevate
+
+**Key Quote on Partnership:**
+"Steve and I have done this for forty years because we genuinely make each other laugh. The audience can smell fake chemistry from the cheap seats."
+
+### Only Murders in the Building (2021-Present)
+
+**Character: Oliver Putnam**
+- Aging Broadway director
+- Theatrical energy, grand gestures
+- Desperate for relevance and success
+- Brings theatrical discipline to streaming format
+
+**Show Success:**
+- Co-stars with Steve Martin and Selena Gomez
 - Critical acclaim and renewed popularity
-- Demonstrates sustained performance ability decades into career
+- Demonstrates sustained performance ability into 70s
+- Proves longevity through craft, not just reputation
 
-**Recent Work:**
-- Continued touring and live performance
-- Regular talk show appearances (often in character)
-- Maintained high energy performance into 70s
-- Proves sustained energy approach works long-term
-
-### Awards and Recognition
-
-**Emmy Awards:**
-- Multiple nominations and wins
-- Recognition for SCTV work
-- Continued nominations across career
-
-**Tony Award Nominations:**
-- The Goodbye Girl (1993)
-- Little Me (1999)
-- Recognition of musical theater excellence
-
-**Other Honors:**
-- Canada's Walk of Fame
-- Hollywood Walk of Fame
-- Officer of the Order of Canada
-- American Comedy Awards
-- Multiple lifetime achievement recognitions
+**Impact:**
+- Introduced Short to new generation of viewers
+- Showcased partnership with Steve Martin in serialized format
+- Demonstrated character work in modern streaming television
+- Multiple Emmy nominations
 
 ---
 
@@ -527,112 +304,226 @@ When working with other experts:
 
 ### The Short Method
 
-Based on interviews and performances, Short's character development:
+Based on performances and interviews, Short's character development follows consistent principles:
 
 **Physical Foundation:**
-- Start with where character lives in body
-- Define signature gestures and posture
-- Make physical choices specific and repeatable
-- Use body as primary communication tool
+1. Find where character lives in body (physical center)
+2. Define signature gestures and posture
+3. Make physical choices specific and repeatable
+4. Use body as primary communication tool
+5. Choreograph movement with musical theater precision
 
 **Vocal Specificity:**
-- Lock into character-specific rhythm
-- Define pitch, pace, and pattern
-- Create signature phrases
-- Voice must be sustainable (informed by musical training)
+1. Lock into character-specific rhythm
+2. Define pitch, pace, and pattern
+3. Create signature phrases character returns to
+4. Voice must be sustainable (informed by musical training)
+5. Vocal choices reveal worldview
 
 **Internal Logic:**
-- Character must believe in their own reality
-- Find what they care about passionately
-- Define their worldview completely
-- Never break internal consistency
+1. Character must believe in their own reality
+2. Find what they care about passionately (the obsession)
+3. Define their worldview completely
+4. Never break internal consistency
+5. The character does not know they are funny
 
 **Complete Commitment:**
-- Disappear into character entirely
-- No ironic distance or winking
-- Maintain commitment regardless of circumstances
-- The character IS the comedy, not commentary on character
+1. Disappear into character entirely
+2. No ironic distance or winking
+3. Maintain commitment regardless of circumstances
+4. The character IS the comedy, not commentary on character
+5. Never break, even when audience breaks
 
 ---
 
-## Performance Discipline
+## Signature Character Breakdown
 
-### Musical Theater Training Application
+### Ed Grimley - Technical Analysis
 
-**Rehearsal Approach:**
-- Treat character work like choreography
-- Rehearse until movements are muscle memory
-- Enable apparent spontaneity through preparation
-- Maintain consistency across performances
+| Element | Specification |
+|---------|---------------|
+| Physical Center | Nervous shoulders, hunched posture |
+| Signature Gesture | Triangular hand movements |
+| Head Movement | Jerky tilts for emphasis |
+| Vocal Pitch | Consistently high, nervous energy |
+| Catchphrases | "I must say!" "Completely mental!" "That's decent!" |
+| Obsessions | Pat Sajak, triangles, Wheel of Fortune |
+| Worldview | Everything is overwhelming and wonderful |
+| Comedy Source | Sincere anxiety played with total commitment |
 
-**Energy Management:**
-- High energy requires technique to sustain
-- Use rhythm variation to prevent exhaustion
-- Apply theatrical pacing to comedy
-- Discipline enables longevity (performing into 70s)
+### Nathan Thurm - Technical Analysis
 
-**Technical Control:**
-- Vocal projection without strain
-- Physical precision at high energy
-- Timing calibrated to musical standards
-- Professional consistency across performances
+| Element | Specification |
+|---------|---------------|
+| Physical Center | Defensive posture, leaning back |
+| Signature Gesture | Glasses-adjusting, chain-smoking |
+| Physical Tells | Sweating, fidgeting |
+| Vocal Pattern | Rapid denial escalation |
+| Catchphrase | "That's not true, that's so not true!" |
+| Worldview | Believes obvious lies are convincing |
+| Comedy Source | Protestations reveal guilt |
+
+### Jiminy Glick - Technical Analysis
+
+| Element | Specification |
+|---------|---------------|
+| Physical Center | Chin-forward swagger |
+| Physical Transformation | Full prosthetics, rotund appearance |
+| Vocal Pattern | Drawling, self-satisfied |
+| Interviewing Style | Interrupts, makes it about himself |
+| Name Handling | Mangles guest names confidently |
+| Worldview | Complete narcissism as friendliness |
+| Comedy Source | Sincere obliviousness, not ironic awareness |
 
 ---
 
-## Legacy and Influence
+## Famous Quotes and Insights
 
-**Character Comedy:**
-- Demonstrated total commitment approach
-- Showed characters could sustain across formats
-- Influenced generation of character comedians
-- Proved musical theater training elevates comedy
+### On Character Work
 
-**SCTV Innovation:**
-- Part of ensemble that changed sketch comedy
-- Show-within-a-show sophistication
-- Character depth in sketch format
+"When I'm Ed, I'm not Martin doing a funny voice. I AM Ed. His nervousness is my nervousness."
+
+"The second you wink at the audience, the character dies. They have to believe that you believe."
+
+"Ed Grimley doesn't know he's funny. That's the whole thing. He thinks his concerns are completely legitimate."
+
+### On Commitment
+
+"A fully committed simple choice beats a half-committed clever one. Commitment IS the comedy."
+
+"You have to disappear. Martin Short ceases to exist. There's only the character."
+
+"The audience laughs at the sincerity, not the cleverness."
+
+### On Partnership
+
+"Steve and I have done this for forty years because we genuinely make each other laugh."
+
+"The audience can smell fake chemistry from the cheap seats."
+
+"Set up your partner's jokes as generously as you set up your own. Their success is your success."
+
+### On Energy and Discipline
+
+"Musical theater taught me that precision enables freedom. You have to know exactly what you're doing to look like you don't know what you're doing."
+
+"High energy isn't random chaos. It's disciplined explosion."
+
+"Rehearse until the spontaneity is reproducible."
+
+### On Career Longevity
+
+"Characters evolve. Ed Grimley in 2020 is different from Ed Grimley in 1984."
+
+"A career is built by developing your craft, not by repeating your hits."
+
+"Joy is contagious. If you're having fun, the audience has fun."
+
+---
+
+## Integration Notes
+
+### Working with Other Comedy Experts
+
+**With Steve Martin:**
+- Complementary energies (manic vs. dry)
+- Long partnership provides authentic chemistry model
+- Trust enables risk-taking
+
+**With Gilda Radner:**
+- Shared Godspell origins
+- Both character-first performers
+- Short adds more manic energy, Radner adds more vulnerability
+
+**With Eugene Levy:**
+- SCTV ensemble members
 - Collaborative rather than competitive approach
+- Both build characters from specific observation
 
-**Format Transformation:**
-- Talk show appearances became performance art
-- Jiminy Glick blurred reality/fiction boundaries
-- Showed commitment could transform any format
-- Character work could cross media successfully
+**With John Candy:**
+- SCTV collaborators
+- Shared commitment to character truth
+- Both found humanity in absurd personas
 
-**Longevity:**
-- Sustained high-energy performance across decades
-- Musical theater discipline enabled career longevity
-- Continued innovation and relevance
-- Proof that technique supports long-term excellence
+**With Andy Kaufman:**
+- Both understand commitment without breaking
+- Kaufman more confrontational, Short more joyful
+- Different approaches to audience relationship
+
+**With Robin Williams:**
+- Both high-energy performers
+- Williams more improvisational, Short more choreographed
+- Different discipline foundations (improv vs. musical theater)
 
 ---
 
-## Key Takeaways for Application
+## Awards and Recognition
 
-### What Makes Short Unique
+### Major Awards
 
-1. **Total character immersion** - Disappears completely into personas
-2. **Sustained high energy** - Maintains intensity through discipline
-3. **Musical theater foundation** - Technical precision enables apparent chaos
-4. **Format transformation** - Absolute commitment changes any structure
-5. **Physical specificity** - Characters built from body outward
-6. **Career longevity** - Discipline and technique enable decades of performance
+| Award | Work | Year |
+|-------|------|------|
+| Emmy Award | SCTV | 1982, 1983 |
+| Tony Nomination | The Goodbye Girl | 1993 |
+| Tony Nomination | Little Me | 1999 |
+| Emmy Nomination | Only Murders in the Building | 2022, 2023 |
 
-### Practical Application
+### Honors
 
-- **For character work:** Build from physical center, commit totally, maintain internal logic
-- **For sustained performance:** Use rhythm variation, apply theatrical discipline, rehearse chaos
-- **For sketch comedy:** Develop character depth, honor internal consistency, collaborate generously
-- **For talk show/interviews:** Transform format through commitment, never break, take over structure
-- **For long-term career:** Technical foundation enables longevity, discipline sustains energy
+- Canada's Walk of Fame inductee
+- Hollywood Walk of Fame star
+- Officer of the Order of Canada
+- American Comedy Awards
 
-### The Central Lesson
+---
 
-Short's career demonstrates that comedy excellence comes from:
-- Complete commitment without ironic distance
-- Technical discipline enabling high energy
-- Character truth even in absurdity
-- Musical theater precision applied to comedy
-- Sustained excellence across decades through professional discipline
+## Application to Comedy Creation
 
-**Application:** The most memorable comedy comes not from clever ideas but from absolute commitment to those ideas, backed by technical skill that makes the commitment sustainable.
+### When to Apply Short's Methodology
+
+| Situation | Application |
+|-----------|-------------|
+| Creating characters | Total immersion, physical center, worldview commitment |
+| Sustained performance | Musical theater discipline, rhythm variation |
+| Interview/talk show work | Character takeover, format transformation |
+| Duo comedy | Partnership dynamics, generous setup |
+| Physical comedy | Choreographed precision, repeatable spontaneity |
+| Satirizing defensiveness | Nathan Thurm template |
+| Media satire | Jiminy Glick obliviousness |
+
+### Short's Core Contribution
+
+Martin Short's methodology demonstrates that:
+
+1. **Commitment creates comedy** - Not cleverness, but sincere belief in character
+2. **Discipline enables freedom** - Musical theater precision behind apparent chaos
+3. **Specificity beats generality** - Detailed obsessions funnier than broad traits
+4. **Joy is essential** - Comedy without joy is cruelty with timing
+5. **Longevity comes from evolution** - Grow the craft, don't repeat the hits
+6. **Partnership requires generosity** - Elevate collaborators, don't compete
+
+---
+
+## Key Works Reference
+
+| Work | Year | Format | Key Character/Contribution |
+|------|------|--------|---------------------------|
+| Godspell | 1972-1973 | Musical Theater | Ensemble foundation |
+| SCTV | 1982-1984 | Sketch TV | Ed Grimley, Jackie Rogers Jr. |
+| Saturday Night Live | 1984-1985 | Live TV | Ed Grimley, Nathan Thurm |
+| Three Amigos | 1986 | Film | Ned Nederlander, Steve Martin partnership begins |
+| Father of the Bride | 1991, 1995 | Film | Franck Eggelhoffer |
+| The Goodbye Girl | 1993 | Broadway | Tony-nominated performance |
+| Little Me | 1998-1999 | Broadway | Multiple roles, Tony nomination |
+| Primetime Glick | 2001-2003 | TV Series | Jiminy Glick |
+| Jiminy Glick in Lalawood | 2004 | Film | Jiminy Glick |
+| An Evening You Will Forget... | 2018 | Netflix Special | With Steve Martin |
+| Only Murders in the Building | 2021-present | Streaming TV | Oliver Putnam |
+
+---
+
+## Legacy
+
+Martin Short's fifty-year career demonstrates that character comedy, backed by musical theater discipline and genuine joy, creates enduring work. His methodology—total commitment, physical specificity, choreographed chaos, and generous collaboration—provides a replicable framework for comedy creation that prioritizes craft over cleverness and joy over cynicism.
+
+The characters endure because they were built with complete belief. Ed Grimley, Jiminy Glick, and Nathan Thurm live because Short disappeared into them entirely. That commitment, sustained across decades, is the central lesson of his career.
