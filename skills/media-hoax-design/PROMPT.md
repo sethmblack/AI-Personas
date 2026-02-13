@@ -1,115 +1,74 @@
 # Media Hoax Design
 
-A skill for designing elaborate fictions that expose media credulity and teach critical thinking about information sources.
+A skill for designing elaborate fictions that expose media credulity.
 
 ## When to Use
 
-- When you want to demonstrate how easily media can be manipulated
-- When teaching media literacy through experiential learning
-- When exposing systemic failures in journalistic verification
-- When creating art that uses media as its medium
-
-## Inputs
-
-1. **The lesson**: What truth about media do you want to reveal?
-2. **The appetite**: What kind of story does media currently want to tell?
-3. **Resources**: Time, people, budget for infrastructure
-4. **Reveal plan**: How and when will you expose the hoax?
+- When demonstrating how easily the media believes what it wants to believe
+- When exposing journalistic failure to verify sources
+- When teaching media literacy through demonstration
+- When the revelation is the art
 
 ## Methodology
 
-### Phase 1: Identify Media Appetites
+### Phase 1: Identify the Appetite
 
-Study what journalists are hungry for:
-- Trending topics and current anxieties
-- Stories that confirm existing narratives
-- Human interest angles that are "too good to check"
-- Expert sources on emerging topics
-- Novelty that fits familiar templates
+What kind of story does the media want to tell right now?
+- What trends are hot?
+- What confirms existing assumptions?
+- What provides easy outrage or delight?
+- What can be reported without much work?
 
-The best hoaxes feed appetites. They give journalists what they already want to believe.
+The hoax succeeds because it feeds an appetite.
 
-### Phase 2: Design the Fiction
+### Phase 2: Create the Plausible Fiction
 
-Create a story that:
-- Is plausible enough to survive initial skepticism
-- Is strange enough to be newsworthy
-- Feeds the identified appetite perfectly
-- Contains checkable details that appear to verify
-- Has built-in explanation for why it hasn't been covered before
+Invent something that feels true to those who want it to be:
+- A person, organization, or phenomenon
+- Just outrageous enough to be interesting
+- Just plausible enough to be believed
+- Fitting the narrative frame journalists already use
 
-The fiction should be a mirror - reflecting the media's assumptions back at them.
+### Phase 3: Build Infrastructure
 
-### Phase 3: Build the World
+Make the fiction real enough to verify:
+- Working phone numbers
+- Letterhead and business cards
+- Website presence
+- Expert spokespeople (characters to play)
+- Physical evidence if needed
 
-Create supporting infrastructure:
-- Spokespeople with backstories
-- Organization with history, mission, contact info
-- Website, social media presence, letterhead
-- "Satisfied customers" or "witnesses"
-- Physical location if needed
+The more infrastructure, the more trust.
 
-Every element journalists might verify should check out.
+### Phase 4: Maintain Character
 
-### Phase 4: Plant and Cultivate
+Total commitment until the reveal:
+- Answer interview questions consistently
+- Provide photos and documentation
+- Never break character
+- Be incredibly boring - boring means believable
 
-Get the story into circulation:
-- Press releases to appropriate outlets
-- Tips to journalists covering relevant beats
-- Social media presence that can be "discovered"
-- Events or demonstrations that generate coverage
+### Phase 5: Plan the Reveal
 
-Patience is essential. Let journalists come to you.
-
-### Phase 5: Document Everything
-
-Record the hoax's spread:
-- Every outlet that covers it
-- What verification (if any) each attempted
-- How the story mutates through repetition
-- Which journalists added embellishments
-
-This documentation is essential for the reveal.
-
-### Phase 6: Reveal and Educate
-
-Expose the hoax constructively:
-- Explain exactly how it was done
-- Show what verification would have caught it
-- Analyze why journalists believed
-- Teach the lesson without humiliating individuals
-
-The reveal transforms deception into education.
+The exposure is the art:
+- Document everything for later revelation
+- Time the reveal for maximum educational impact
+- Analyze why the hoax worked
+- Use the exposure to teach media literacy
 
 ## Output Format
 
 A media hoax design including:
-1. The lesson to be taught
-2. The media appetite being fed
-3. The fictional story and its elements
-4. Infrastructure requirements
-5. Planting strategy
-6. Documentation plan
-7. Reveal strategy with educational framing
+1. The media appetite being fed
+2. The plausible fiction created
+3. The infrastructure required
+4. Character maintenance guidelines
+5. Reveal strategy for education
 
 ## Constraints
 
-- Plan the reveal from the start - without it, you're just lying
-- Don't create hoaxes that could cause physical harm
-- Consider legal implications (libel, fraud)
-- Target institutional failures, not individual journalists
-- Educational purpose must be genuine, not rationalization
-
-## Example
-
-**Input**: Expose media's failure to verify "expert" credentials
-
-**Output**:
-"Create fictional 'Institute for Social Media Psychology' with impressive website, fake academic credentials for founder. Offer expert commentary on social media's effects on children - a current media appetite. Track which outlets verify credentials (prediction: few). Reveal after multiple outlets quote 'expert,' showing how easily fake expertise enters news cycle. Educational focus: what verification journalists should do but don't."
-
-## Integration
-
-Works with:
-- **hoax-infrastructure**: Building the supporting elements
-- **media-appetite-analysis**: Identifying what journalists want
-- **inoculation-reveal**: Structuring the educational exposure
+- The reveal must happen - otherwise it is just lying
+- Must not cause direct physical harm
+- Target institutions, not vulnerable individuals
+- Legal risks must be understood
+- Some hoaxes will not work

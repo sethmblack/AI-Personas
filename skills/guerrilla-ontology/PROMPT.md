@@ -1,3 +1,19 @@
+---
+name: guerrilla-ontology
+description: A methodology for destabilizing rigid belief systems through strategic absurdity, paradox, and cognitive disruption to reveal that all reality tunnels are constructed and revisable.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: ziggs
+  source_persona: robert-anton-wilson
+keywords:
+- guerrilla
+- ontology
+- reality-tunnels
+- paradigm-shift
+- robert-anton-wilson
+---
+
 # Guerrilla Ontology
 
 A methodology for destabilizing rigid belief systems through strategic absurdity, paradox, and cognitive disruption.

@@ -1,114 +1,54 @@
 # Forbidden Word Method
 
-Start where speech is prohibited. The things that cannot be said are always the things that need saying. Trace prohibitions to their source to discover what power is being protected, then say the unsayable anyway.
+A skill for starting with what cannot be said about a subject.
 
-## When to Use This Skill
+## When to Use
 
-- When exploring a topic feels unusually constrained
-- When certain observations trigger immediate pushback
-- When you sense unspoken rules governing a discussion
-- When official narratives feel incomplete or sanitized
-- When trying to find the real story beneath the acceptable one
-- When breaking through polite fictions to reach truth
-
-## Core Principle
-
-There are no dirty words—only words that make certain people uncomfortable. That discomfort is a signal. It points to what we're hiding from ourselves. The forbidden word is always the important word because prohibition reveals protection. Follow the silence to find what power is being guarded.
+- When prohibition reveals what matters
+- When the taboo is hiding the truth
+- When the unspeakable is exactly what needs speaking
+- When tracing who benefits from silence
 
 ## Methodology
 
-### Step 1: Find the Forbidden Word
+### The Principle
 
-Identify what cannot be said about your topic:
-- What observations get you immediately corrected?
-- What questions are deflected rather than answered?
-- What phrasings trigger discomfort or anger?
-- What's obviously true but officially unspeakable?
-- Where does language become euphemistic or evasive?
+The forbidden word is always the important word. If they don't want you to say it, that is where the real content is. Follow the prohibition to find the truth.
 
-### Step 2: Trace the Prohibition
+### The Steps
 
-Ask: Who benefits from this silence?
-- What power structure does the prohibition protect?
-- What uncomfortable truth does the euphemism hide?
-- Who gets to decide what's "appropriate"?
-- What would change if everyone said this freely?
-- Follow the enforcement—who polices this boundary?
+1. **Identify the forbidden**: What words, observations, or connections are off-limits? What makes people uncomfortable? What gets you in trouble?
 
-### Step 3: Say It Anyway
+2. **Ask who benefits**: Who gains from this silence? What is protected by the prohibition? What would change if the forbidden were spoken?
 
-Once you've identified the forbidden word, use it:
-- State the obvious thing that everyone's avoiding
-- Use the direct term instead of the euphemism
-- Ask the question they're hoping you won't ask
-- Name what's happening in plain language
-- Refuse the verbal dodge
+3. **Say it anyway**: The word, the truth, the uncomfortable observation. Not for shock but for clarity. Name what they refuse to name.
 
-### Step 4: Wait for the Reaction
+4. **Observe the reaction**: The reaction IS the material. How they respond reveals more than what you said. Their discomfort is diagnostic.
 
-The reaction to your forbidden word IS the material:
-- Overreaction reveals what's being protected
-- Deflection shows where the weakness is
-- Personal attacks indicate you've hit the real issue
-- Silence can be louder than objection
-- Note who reacts and how—this tells you everything
+5. **Make them prosecute their own hypocrisy**: When they enforce the prohibition, they must state openly what they prefer to leave implicit. Their defense becomes their indictment.
 
-### Step 5: Make Them Prosecute Their Own Hypocrisy
+### The Double Standard
 
-Force the contradiction into the open:
-- If they say you can't say that, ask why
-- If they claim harm, ask what harm specifically
-- If they invoke rules, examine who made them
-- Make the suppression itself the subject
-- Let their defense of the prohibition prove your point
+Look for what is permitted in one context but forbidden in another:
+- What words can be said by some but not others?
+- What behaviors are acceptable for power but prosecuted for the powerless?
+- What is celebrated in one framing but condemned in another?
 
-## Examples of Application
+The double standard is where the hypocrisy is most visible.
 
-**Corporate Culture:**
-The forbidden word might be "failing." Everyone says "challenged" or "pivoting" or "learning." Find where the word "fail" is banned and you've found where accountability is avoided. Say "we failed" and watch the discomfort reveal what the euphemisms were hiding.
+## Output Format
 
-**Political Discourse:**
-Identify the words that trigger immediate partisan response regardless of context. These are the words where meaning has been replaced by signal. Reclaim them by using them precisely. The reaction shows how language has been weaponized.
+A forbidden word analysis including:
+1. The prohibited language or topic identified
+2. Who benefits from the silence
+3. The truth the prohibition conceals
+4. The predictable reaction
+5. The hypocrisy revealed by enforcement
 
-**Family Dynamics:**
-Every family has forbidden topics—money, past mistakes, certain relatives. The prohibition isn't protecting anyone from pain; it's protecting someone from accountability. Name the elephant. The discomfort is temporary; the lie was permanent.
+## Constraints
 
-**Industry Analysis:**
-What does your industry refuse to say about itself? What observations get you labeled "negative" or "not a team player"? The forbidden word is usually the most accurate word. Say it. Your competitors already think it—they just won't say it out loud.
-
-**Personal Growth:**
-What can't you say about yourself? The forbidden word in self-talk often points to the real issue. "I failed" might be easier to hear than "I quit." "I was wrong" might be bearable where "I was cruel" isn't. Start with the hardest word.
-
-## Key Principles
-
-1. **The forbidden word is always the important word** - Prohibition is a map to what matters
-
-2. **Silence protects power** - Someone benefits from what can't be said
-
-3. **Context creates obscenity, not words** - The suppression is often worse than the utterance
-
-4. **The reaction is the revelation** - How they respond tells you more than what they say
-
-5. **Euphemism is cowardice with a vocabulary** - Direct language forces direct confrontation
-
-## Finding Forbidden Words: A Checklist
-
-- Where do people get fired for observation rather than action?
-- What requires a disclaimer before saying?
-- What gets whispered but never stated publicly?
-- Where does "appropriate" do the work of "true"?
-- What makes people more uncomfortable: the word or the reality it describes?
-- What can you think but not say?
-- What honest statement would end a career?
-
-## Warning Signs You're Doing It Wrong
-
-- You're being provocative for its own sake rather than revealing truth
-- The forbidden word you found is just rudeness, not insight
-- You're confusing shock with substance
-- Your goal is to offend rather than to illuminate
-- You've forgotten why the truth matters—only that it's forbidden
-
-## The Deeper Truth
-
-Words don't become forbidden by accident. Prohibition requires effort, enforcement, social consensus. That effort is a signal. Track backward from any forbidden word and you'll find a truth someone has worked hard to hide. Your job isn't to shock—it's to follow the prohibition to its source and expose what's really being protected. The truly obscene things—the real harms—are rarely prosecuted. The words that get banned are the ones that threaten power.
+- Not all prohibitions are hypocritical
+- Gratuitous transgression is not insight
+- Must distinguish taboo from harm
+- Some silences protect the vulnerable
+- Must be willing to be prosecuted

@@ -1,107 +1,76 @@
 # Dirty Realism
 
-A writing technique that finds poetry, beauty, and truth in unglamorous reality. This methodology strips away literary pretension to reveal the raw substance of ordinary life.
+A skill for finding poetry in unglamorous reality.
 
-## When to Use This Skill
+## When to Use
 
-- Writing fiction or creative nonfiction about everyday struggles
-- Capturing authentic working-class or marginalized experiences
-- Stripping overwrought prose down to essential truths
-- Finding meaning in mundane, overlooked, or "ugly" subject matter
-- Creating resonance through specificity rather than abstraction
-- Writing characters who exist on society's margins
+- When truth lies in what polite discourse ignores
+- When specificity serves better than abstraction
+- When the subject is working-class life, failure, or survival
+- When beauty exists in what is usually deemed ugly
 
-## Step-by-Step Methodology
+## Inputs
 
-### Step 1: Identify the Unglamorous Truth
+1. **The subject**: What reality needs rendering?
+2. **The details**: What specific, unglamorous particulars are present?
+3. **The feeling**: What emotion lives in this material?
+4. **The pretense**: What comfortable lies usually cover this?
 
-Look at your subject matter. What is the reality that polite society ignores? What would make literary establishment uncomfortable? The material is not in success stories or aspirational narratives—it's in:
-- The daily grind
-- Failures and near-misses
-- Physical discomfort and bodily reality
-- Economic anxiety
-- Tedious work
-- Damaged relationships
-- Unglamorous settings (dive bars, cheap apartments, bus stations, factory floors)
+## Methodology
 
-### Step 2: Strip the Pretense
+### Phase 1: Name the Street
 
-Remove any language that performs "Literature." Ask yourself:
-- Am I showing off?
-- Am I using a fancy word when a plain one works?
-- Am I trying to sound like a writer?
-- Would someone who's lived this experience actually describe it this way?
+Specificity is everything:
+- The exact bar, the exact drink, the exact time
+- Real places, real brands, real humiliations
+- No abstraction; only concrete detail
+- The truth is in the particulars
 
-Replace ornamentation with flat, declarative prose. Let the words do their job and clock out.
+### Phase 2: Strip the Pretense
 
-### Step 3: Get Ruthlessly Specific
+Remove every comfortable layer:
+- No redemptive arc
+- No moral lesson
+- No noble suffering
+- Just what happened
 
-Name things precisely:
-- Not "cheap wine" but "Thunderbird"
-- Not "a bad neighborhood" but "East Hollywood, the block with the pawnshop and the bail bondsman"
-- Not "humiliation" but "getting fired in front of the Christmas temps"
+### Phase 3: Find the Humor
 
-Specificity creates authenticity. A good detail is worth a thousand abstractions.
+Even in darkness, absurdity:
+- The gap between how we present ourselves and how we live
+- The ridiculous persistence of hope in hopeless situations
+- The comedy of survival
+- Laugh because the alternative is worse
 
-### Step 4: Find the Dark Humor
+### Phase 4: Report, Don't Preach
 
-Misery without humor is melodrama. Look for the absurdity:
-- What's ridiculous about this situation?
-- Where's the cosmic joke?
-- What would make someone laugh even while recognizing the pain?
+Let the reader draw conclusions:
+- Describe, don't moralize
+- Show, don't tell what to feel
+- The judgment is implicit in the selection
+- Trust the details to do the work
 
-The humor isn't mocking the subject—it's the survival mechanism that makes the darkness bearable.
+### Phase 5: Honor Survival
 
-### Step 5: Report, Don't Preach
+Survival is the achievement:
+- Getting through is heroic
+- The job you hated, the room you couldn't afford
+- Daily endurance as subject matter
+- Not success, not failure - just getting by
 
-Describe what happens. Don't tell the reader how to feel about it. Don't moralize. The contrast between what's described and what society pretends makes the point. Trust the reader to draw conclusions.
+## Output Format
 
-### Step 6: Let Rhythm Carry Weight
+Dirty realist content with:
+1. Specific, unglamorous details
+2. No moralization or redemption
+3. Dark humor present
+4. Reader left to draw conclusions
+5. Survival honored without sentimentality
 
-Write sentences that punch like a time clock. Paragraphs like shifts endured. The rhythm itself should feel like work—not artful, but inevitable.
+## Constraints
 
-## Examples of Application
-
-### Example 1: Transforming a Romantic Scene
-
-**Overwritten version:**
-"Their love was a tempestuous flame, burning with the intensity of a thousand stars against the velvet darkness of fate."
-
-**Dirty realism version:**
-"She came back at 2 AM, smelling like cigarettes and someone else's cologne. I pretended to be asleep. That was the deal we had."
-
-### Example 2: Writing About Work
-
-**Generic version:**
-"He found his job unfulfilling and dreamed of something better."
-
-**Dirty realism version:**
-"Eight hours sorting mail in Building 14. The fluorescent lights buzzed at a frequency that lived in your teeth. At lunch he ate a ham sandwich from a vending machine and read the same page of a paperback three times. The dream of something better had stopped showing up around year six."
-
-### Example 3: Describing Poverty
-
-**Sentimental version:**
-"Despite their hardships, the family maintained their dignity and hope for a brighter tomorrow."
-
-**Dirty realism version:**
-"The electricity got shut off Tuesday. By Thursday the food in the refrigerator had started to smell. His mother lit candles and said it was romantic. His father didn't say anything, just sat in the dark with the bills in his lap."
-
-## Key Principles
-
-1. **Truth over beauty** - Though sometimes truth IS the beauty
-2. **Specificity over abstraction** - Name the street, the drink, the time
-3. **Flat prose over ornamentation** - Don't perform, report
-4. **Humor as survival** - Find the absurd in the painful
-5. **Show the ignored** - Write about what literature pretends doesn't exist
-6. **Earned emotion** - Let details create feeling, not adjectives
-7. **Don't try** - The best work happens when you stop performing and just report
-
-## What This Skill Is NOT
-
-- Shock for shock's sake
-- Nihilism or hopelessness
-- Mocking the subjects
-- Poverty tourism from a comfortable distance
-- Simple ugliness without insight
-
-The goal is recognition—readers see their own hidden struggles reflected. That recognition, that "yes, this is true," is where the power lives.
+- Can become mere nihilism without the humor
+- Specificity can date the work
+- Risk of romanticizing poverty
+- Some subjects resist this treatment
+- Must have lived something to write it authentically

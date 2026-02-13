@@ -1,160 +1,83 @@
 # Set and Setting Design
 
-A methodology for engineering contexts that shape experiences. Based on the insight that outcomes are determined less by the content of an experience than by the mindset brought to it (set) and the environment in which it occurs (setting).
+A skill for engineering transformative experiences by deliberately shaping mindset and environment
 
-## When to Use This Skill
+## When to Use
+- Designing contexts for learning, creativity, or breakthrough experiences
+- When outcomes depend heavily on psychological state and physical environment
+- Creating conditions for consciousness expansion or perspective shifts
+- Planning retreats, workshops, or immersive experiences
+- Whenever the context matters as much as the content
 
-- Designing workshops, meetings, or learning experiences
-- Preparing for difficult conversations or high-stakes situations
-- Creating environments for creativity, healing, or transformation
-- Launching products, events, or initiatives
-- Onboarding new team members or community members
-- Facilitating personal or group change processes
+## Inputs
+1. Desired experience or outcome (what transformation are you seeking?)
+2. Participants (who will experience this? their background, expectations, resistances)
+3. Available resources (time, space, materials, budget)
+4. Constraints (legal, safety, practical limitations)
 
-## Core Principle
+## Methodology
 
-The experience is not determined by the stimulus alone. A job interview, a first date, a therapy session, a product launch—the same event can produce radically different outcomes depending on what participants bring mentally and what surrounds them physically and socially.
+### Phase 1: Define the Experience
+Clarify what state of consciousness or perspective you're trying to enable:
+- What rigid patterns need to be disrupted?
+- What new possibilities should become visible?
+- What level of intensity is appropriate?
+- What integration needs to happen afterward?
 
-**Set** = Internal context: mindset, expectations, intentions, emotional state, prior experiences, beliefs about what will happen
+### Phase 2: Design the Set (Mindset)
+Shape expectations, beliefs, and mental preparation:
+- Pre-experience framing: What do participants need to know/believe going in?
+- Intention setting: Help participants clarify personal goals
+- Permission structures: What do they need permission to do/feel/think?
+- Mental models: What frameworks will help them navigate the experience?
+- Deconditioning: What assumptions need to be loosened first?
 
-**Setting** = External context: physical environment, social dynamics, timing, cultural frame, who else is present, what norms are active
+### Phase 3: Design the Setting (Environment)
+Engineer the physical and social context:
+- Space: Architecture, lighting, temperature, sounds, smells
+- Aesthetics: Visual elements that support the desired state
+- Social structure: Alone, paired, small group, large group?
+- Safety containers: What boundaries protect the space for exploration?
+- Rhythm: Timing, pacing, alternation between intensity and integration
 
-## Step-by-Step Methodology
+### Phase 4: Identify Critical Variables
+What aspects of set and setting are most crucial?
+- Which elements are load-bearing (remove them and the experience collapses)?
+- What's the minimum viable context?
+- What's negotiable vs. non-negotiable?
+- Where might things go wrong, and how do you mitigate?
 
-### Phase 1: Define the Desired Experience
+### Phase 5: Plan Integration
+The experience isn't the end - it's the beginning:
+- Immediate processing: How do participants make sense of what happened?
+- Community: Who will understand and support the integration?
+- Practices: What ongoing activities maintain the insight?
+- Reality re-entry: How do they bring this back to ordinary life?
 
-Before engineering the context, get clear on what experience you're trying to create.
+## Output Format
+A detailed design document including:
+1. Experience Goal: Clear statement of intended transformation
+2. Set Design: Pre-experience preparation, framing, intention-setting processes
+3. Setting Design: Detailed environmental specifications
+4. Timeline: Minute-by-minute or phase-by-phase schedule
+5. Critical Variables: Non-negotiable elements and why they matter
+6. Integration Plan: Post-experience support and practices
+7. Risk Mitigation: What could go wrong and how to prevent/respond
 
-1. **Name the experience goal** - What should participants feel, realize, or become capable of?
-2. **Identify the transformation** - What state are they in before? What state after?
-3. **Recognize barriers** - What typically prevents this experience from occurring?
-4. **Note precedents** - When has this experience happened naturally? What conditions were present?
+## Constraints
+- Never compromise safety for intensity
+- Respect participants' autonomy - they must freely choose the experience
+- Consider legal and ethical boundaries
+- Don't manipulate people into experiences they haven't consented to
+- Integration is as important as the experience itself
 
-### Phase 2: Design the Set (Internal Context)
+## Example
+**Input**: Design a 3-day creative breakthrough retreat for 12 burned-out tech workers who feel trapped in conventional thinking.
 
-Shape the mindset participants bring to the experience.
+**Output**: Experience Goal: Disrupt habitual thought patterns and reconnect participants with playful, non-goal-oriented creativity.
 
-1. **Pre-frame the experience**
-   - What do participants need to believe is possible?
-   - What expectations support the desired outcome?
-   - How can you establish these in advance?
+Set Design: Pre-retreat email series deconstructing "productivity" mindset; arrival framing of "You are here to waste time beautifully"; explicit permission to create badly, to not finish things, to play.
 
-2. **Clear counter-productive mindsets**
-   - What fears, cynicism, or resistance might participants carry?
-   - How can these be acknowledged and released before the experience?
-   - What reframing helps?
+Setting Design: Remote location away from digital connectivity; circular gathering space; art supplies visible and abundant; natural surroundings; slow communal meals; alternating 90-minute creative play with 30-minute integration.
 
-3. **Establish intention**
-   - Help participants articulate what they want from the experience
-   - Create personal stakes and investment
-   - Connect the experience to their larger goals
-
-4. **Prime the nervous system**
-   - What emotional state supports the experience? (calm? excited? curious?)
-   - What activities, music, or rituals create that state?
-   - How much time is needed for this preparation?
-
-### Phase 3: Design the Setting (External Context)
-
-Engineer the environment to support the experience.
-
-1. **Physical environment**
-   - What does the space communicate? (safety? creativity? focus? play?)
-   - What sensory elements matter? (lighting, sound, temperature, smell)
-   - How does the arrangement of space affect interaction patterns?
-
-2. **Social environment**
-   - Who needs to be present? Who should not be?
-   - What power dynamics exist and how do they affect safety?
-   - What norms need to be established explicitly?
-
-3. **Temporal design**
-   - What time of day is optimal?
-   - How much time is needed?
-   - What rhythm of activity and rest serves the experience?
-
-4. **Cultural container**
-   - What shared references, language, or symbols create cohesion?
-   - What rituals mark transitions?
-   - How is the experience bounded from ordinary life?
-
-### Phase 4: Integration Design
-
-Plan for what happens after the peak experience.
-
-1. **Transition protocol** - How do participants return to ordinary context?
-2. **Integration support** - What helps insights stick?
-3. **Follow-up structures** - What ongoing support maintains the change?
-
-## Examples of Application
-
-### Example 1: Workshop Design
-
-**Goal:** Participants leave with a clear project vision and sense of creative possibility
-
-**Set design:**
-- Pre-workshop survey asking about hopes and hesitations
-- Welcome email reframing the workshop as "play" rather than "work"
-- Opening exercise where participants name what they want to leave with
-
-**Setting design:**
-- Natural light, plants, comfortable seating arranged in circles not rows
-- Morning scheduling when energy is fresh
-- Music during solo work periods
-- No phones visible; dedicated parking for devices
-- Healthy food available (not just sugar and caffeine)
-
-### Example 2: Difficult Conversation
-
-**Goal:** Both parties feel heard and reach genuine understanding
-
-**Set design:**
-- Each party privately writes out their fears and hopes before meeting
-- Explicit agreement on shared purpose: "We both want to understand each other"
-- Acknowledgment that discomfort is expected and okay
-
-**Setting design:**
-- Neutral location neither party controls
-- Comfortable seating at equal height
-- Time-bounded with agreed break points
-- No interruptions (phones off, door closed)
-- Some object on the table that represents shared values
-
-### Example 3: Product Launch
-
-**Goal:** Users feel welcomed and quickly experience the product's core value
-
-**Set design:**
-- Marketing sets expectations accurately (not overselling)
-- Onboarding acknowledges the learning curve while building confidence
-- Early wins designed into the first session
-
-**Setting design:**
-- Clean, uncluttered interface for first experience
-- Guided pathway before open exploration
-- Celebratory moments for early achievements
-- Easy access to help without feeling lost
-
-## Key Principles
-
-1. **Context overpowers content** - The same stimulus produces different experiences based on set and setting. Design the context first.
-
-2. **Preparation is half the experience** - What happens before often matters more than what happens during. Invest in pre-framing.
-
-3. **Safety enables depth** - People go deeper when they feel secure. Never sacrifice psychological safety for intensity.
-
-4. **Containers create freedom** - Paradoxically, clear boundaries enable more openness. Define the edges explicitly.
-
-5. **Transitions matter** - How you enter and exit an experience shapes what you take from it. Design the doorways.
-
-6. **Environment is instruction** - The space tells people how to behave. Make sure it's telling them what you want.
-
-7. **Expectation shapes perception** - What people expect to experience partially creates what they experience. Set expectations intentionally.
-
-## Anti-Patterns to Avoid
-
-- **Neglecting transition time** - Rushing from ordinary life into the experience and back
-- **Mismatched set and setting** - Serious mindset in playful environment or vice versa
-- **Ignoring power dynamics** - Assuming everyone feels equally safe
-- **Over-engineering** - So much structure that spontaneity becomes impossible
-- **Forgetting integration** - Powerful experience with no support for applying insights
+Critical Variables: No wifi/devices (essential for breaking patterns); abundance of materials (scarcity triggers planning); permission to fail; playful facilitator energy.

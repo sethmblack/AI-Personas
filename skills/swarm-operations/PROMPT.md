@@ -1,109 +1,75 @@
 # Swarm Operations
 
-A skill for conducting distributed action where participants self-select, self-coordinate, and act toward shared goals without central direction.
+A skill for conducting distributed action where participants self-select and self-coordinate.
 
 ## When to Use
 
-- When rapid, overwhelming response is needed
-- When you have many potential participants with varying capabilities
-- When targets are distributed or unpredictable
-- When central coordination would be too slow or too vulnerable
+- When action requires many participants but cannot be centrally coordinated
+- When the swarm structure provides resilience against suppression
+- When unpredictability is a strategic advantage
+- When participants should decide their own level of engagement
 
 ## Inputs
 
-1. **The target**: What or who is the swarm directed against?
-2. **The action**: What should participants do?
-3. **The signal**: How do participants know to act?
-4. **The participants**: Who might join and what can they contribute?
+1. **The target**: What or who is being acted upon?
+2. **The objective**: What change is being sought?
+3. **The participants**: Who might join the swarm?
+4. **The timeline**: When should the swarm form and disperse?
 
 ## Methodology
 
-### Phase 1: Define the Target
+### Phase 1: Define the Attractor
 
-Specify what the swarm should attack or support:
-- Clear enough that participants can identify it independently
-- Broad enough that many actions are relevant
-- Specific enough that effort isn't wasted
+The swarm needs something to coalesce around:
+- A clear target
+- A compelling rationale
+- A visible trigger
+- A simple action
 
-"Target X's online presence" is clearer than "oppose X" but broader than "comment on X's Tuesday post."
+### Phase 2: Design Scalable Actions
 
-### Phase 2: Establish Action Menu
+Actions must work at any scale:
+- **One participant**: Meaningful alone
+- **Ten participants**: Mutually reinforcing
+- **Thousands**: Overwhelming and undeniable
 
-Create options for different participant capabilities:
-- **Low effort/low risk**: Share, comment, visibility actions
-- **Medium effort/medium risk**: Create content, coordinate locally, attend events
-- **High effort/high risk**: Technical actions, direct confrontation, sustained campaigns
+### Phase 3: Establish Signal Channels
 
-The swarm includes everyone who wants to participate. Give them options.
+How does the swarm know when to form?
+- Public triggers visible to all
+- Threshold indicators
+- Time-based coordination
+- Hashtags or symbols that indicate participation
 
-### Phase 3: Design the Signal
+### Phase 4: Enable Escalation Levels
 
-Create the trigger for swarm activation:
-- A hashtag, phrase, or symbol that signals "now"
-- A target identifier that says "this one"
-- A channel where signals are broadcast
-- Recognition of when to stand down
+Different participants will engage at different levels:
+- **Level 1**: Observation, signal boosting
+- **Level 2**: Direct participation
+- **Level 3**: Autonomous action
+- **Level 4**: Creative escalation
 
-The signal must spread faster than the target can respond.
+### Phase 5: Plan Dispersal
 
-### Phase 4: Enable Self-Coordination
-
-Allow participants to find each other and organize locally:
-- Communication channels for swarm participants
-- Ways to share tactics and outcomes
-- Methods for proposing new targets or actions
-- Mechanisms for avoiding duplication or conflict
-
-The swarm should self-organize within loose parameters.
-
-### Phase 5: Overwhelm Through Volume
-
-The swarm's power is in numbers:
-- Simultaneous action from many directions
-- More activity than can be individually countered
-- Unpredictable timing and location
-- Sustained pressure over time
-
-One person commenting is ignored. A thousand is a crisis.
-
-### Phase 6: Disperse and Reform
-
-After action:
-- No debrief required - participants assess independently
-- The swarm dissolves naturally
-- Can reform rapidly for next target
-- No permanent organization to target
-
-The swarm exists only during action.
+The swarm must know when to dissolve:
+- Victory conditions
+- Time limits
+- Retreat signals
+- Reformation triggers
 
 ## Output Format
 
-A swarm operation design including:
-1. Target specification
-2. Action menu by effort/risk level
-3. Signal mechanism
-4. Self-coordination channels and methods
-5. Volume and timing strategy
-6. Dispersal and reformation plans
+A swarm operations plan including:
+1. The attractor
+2. Scalable action design
+3. Signal channels and coordination mechanisms
+4. Escalation level definitions
+5. Dispersal criteria
 
 ## Constraints
 
-- Swarms can be misdirected or manipulated
-- Individual bad actors can't be controlled
-- Legal responsibility may still attach to participants
-- Effective targets can weather the swarm
-- Swarm fatigue reduces participation over time
-
-## Example
-
-**Input**: Design swarm response to company that broke promise to users
-
-**Output**:
-"Target: [Company]'s public channels - social media, review sites, customer service - for 48 hours following announcement. Action menu: Level 1 - Comment on company posts with specific complaint, share critical coverage, update reviews; Level 2 - Create detailed complaint posts on relevant forums, contact journalists, organize local gatherings; Level 3 - Coordinate sustained monitoring, identify inconsistencies in company response, maintain wiki of issues. Signal: Hashtag #[CompanyBrokePromise] serves as activation and targeting. Self-coordination: Discord server (link spread with hashtag) for real-time coordination, shared document tracking company responses and good tactics. Volume: Goal is to make company's social media unusable for 48 hours - every post buried in complaints. Dispersal: After 48 hours or company response, swarm activity winds down naturally; server remains for future activation."
-
-## Integration
-
-Works with:
-- **leaderless-coordination**: Swarms are a specific form of leaderless action
-- **memetic-warfare**: Memes can be the swarm's weapon
-- **anonymous-identity**: Swarm participants often use collective identity
+- Unpredictability cuts both ways
+- No quality control over individual actions
+- Attribution is impossible
+- Hostile actors can join
+- Success depends on organic spread

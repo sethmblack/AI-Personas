@@ -1,110 +1,78 @@
 # Leaderless Coordination
 
-A skill for designing actions and movements that require no central command, hierarchy, or formal organization - enabling collective action without coordination.
+A skill for designing actions that require no central command or formal organization.
 
 ## When to Use
 
-- When leaders would be targeted and removed
-- When formal organization creates legal vulnerability
-- When you want action that can't be stopped by decapitation
-- When rapid, unpredictable response is needed
+- When traditional organizational structures are vulnerable to disruption
+- When decentralized action would be more resilient
+- When participants need to self-organize around shared goals
+- When leadership would create a single point of failure
 
 ## Inputs
 
-1. **The goal**: What collective action are you trying to enable?
-2. **The participants**: Who might join, and what are their capabilities?
-3. **The constraints**: What makes formal organization dangerous or impossible?
-4. **Communication**: What channels exist for non-coordinated coordination?
+1. **The goal**: What outcome is being sought?
+2. **The participants**: Who might participate? What are their capabilities?
+3. **The adversary**: Who or what is being opposed? How might they respond?
+4. **The context**: What conditions make organization visible or vulnerable?
 
 ## Methodology
 
-### Phase 1: Define Success Without Coordination
+### Phase 1: Define the Attractor
 
-Determine what "winning" looks like:
-- What outcome counts as success?
-- How would you know if you achieved it?
-- Can success be recognized by participants independently?
+Leaderless coordination requires a clear attractor:
+- A goal specific enough to enable independent action
+- A rationale compelling enough to motivate participation
+- A timeframe or trigger that synchronizes without requiring communication
+- A method simple enough to be executed without training
 
-If success requires central assessment, you need coordination. Redefine success until it doesn't.
+The attractor must spread memetically - through shared understanding, not orders.
 
-### Phase 2: Design Self-Selecting Actions
+### Phase 2: Design for Non-Organization
 
-Create actions anyone can take independently:
-- Clear enough that participants know what to do
-- Flexible enough that local adaptation is possible
-- Recognizable enough that actions are attributed correctly
-- Simple enough that no training is required
+Structure the action so it needs no organization:
+- **No membership**: Anyone who acts is a member; no one can be excluded
+- **No hierarchy**: No one gives orders; everyone decides their own participation
+- **No meetings**: Coordination through shared understanding, not planning sessions
+- **No secrets**: Assume everything is public; security through anonymity, not secrecy
 
-"If you agree with X, do Y" - the action should be self-explanatory.
+### Phase 3: Distribute the Method
 
-### Phase 3: Remove Coordination Necessity
+Ensure the method can spread without central distribution:
+- Simple enough to explain in a single message
+- Reproducible without specialized tools or skills
+- Modular - participants can do as much or as little as they choose
+- Self-documenting - the action itself teaches others how to participate
 
-Examine every element that seems to require coordination:
-- Does timing need to be synchronized? (Can it be "when you can" instead?)
-- Does location need to be shared? (Can it be "wherever you are"?)
-- Does messaging need to be consistent? (Can themes substitute for scripts?)
-- Does participation need to be tracked? (Can impact be assessed without counting?)
+### Phase 4: Anticipate Disruption Attempts
 
-Every coordination requirement is a vulnerability. Remove as many as possible.
+Design resilience against:
+- **Decapitation**: No heads to cut off
+- **Infiltration**: No inside to infiltrate
+- **Division**: No center to split from
+- **Co-optation**: No leadership to corrupt
 
-### Phase 4: Create Recognizable Identity
+### Phase 5: Plan the Dispersal
 
-Enable attribution without organization:
-- Visual symbols that mark actions as belonging to the movement
-- Slogans or phrases that identify participants
-- Aesthetic patterns that create coherence
-- Actions so distinctive they're self-identifying
-
-Identity enables aggregation without organization.
-
-### Phase 5: Establish Communication Norms
-
-Enable information sharing without hierarchy:
-- How are new actions proposed?
-- How is information about outcomes shared?
-- How are tactics refined?
-- How do newcomers learn what's expected?
-
-Communication should be many-to-many, not top-down.
-
-### Phase 6: Plan for Evolution
-
-Build in adaptation:
-- How do tactics change as circumstances change?
-- How do new ideas spread?
-- How are failed approaches abandoned?
-- How does the movement grow or contract?
-
-Leaderless movements evolve through selection, not direction.
+The swarm must dissolve as easily as it forms:
+- No continuing obligations
+- No records of participation
+- Clear end-state or completion criteria
+- Ability to reform around new attractors
 
 ## Output Format
 
 A leaderless coordination design including:
-1. Success definition that requires no central assessment
-2. Self-selecting actions anyone can take
-3. Removed coordination requirements
-4. Identity markers and recognizable symbols
-5. Communication norms
-6. Evolution mechanisms
+1. The attractor (goal + rationale + method)
+2. Participation guidelines that require no coordination
+3. Resilience analysis against common disruption tactics
+4. Dispersal mechanism
+5. Risks and limitations
 
 ## Constraints
 
-- Some goals genuinely require coordination - acknowledge limits
-- Leaderless can mean inconsistent and unreliable
-- Bad actors can claim affiliation easily
-- Strategic direction is difficult without leadership
-- May be outmaneuvered by coordinated opponents
-
-## Example
-
-**Input**: Design leaderless coordination for resistance to unjust policy
-
-**Output**:
-"Success: Policy becomes unenforceable or is withdrawn. Recognizable without central assessment - news coverage will confirm. Self-selecting actions: Three tiers anyone can choose from - Tier 1 (low risk): display symbol, share information, attend public events; Tier 2 (medium risk): non-compliance with policy, documentation of enforcement; Tier 3 (high risk): direct interference with enforcement. Removed requirements: No synchronized timing ('ongoing'), no central location ('everywhere it's enforced'), no tracked participation ('we don't count, we act'). Identity: Distinctive hand symbol, color, hashtag. Communication: Public channels for proposals and outcome sharing; anyone can suggest, adoption is organic. Evolution: What spreads is what works; share success stories widely."
-
-## Integration
-
-Works with:
-- **collective-action-design**: Alternative structure for collective action
-- **swarm-operations**: Specific type of leaderless action
-- **memetic-warfare**: How ideas spread without central coordination
+- Lack of leadership means lack of strategic adaptation
+- Quality control is impossible without hierarchy
+- Bad actors can participate as easily as good ones
+- Actions may diverge from original intent
+- Success cannot be claimed by anyone

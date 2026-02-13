@@ -1,3 +1,20 @@
+---
+name: prompt-review
+description: Comprehensively evaluate any prompt against the 13-technique matrix with chaos agent testing and produce a scored assessment with specific improvement recommendations. It provides a structured evaluation framework ensuring prompts meet production quality standards.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: prompt-engineering-expert
+  source_persona: prompt-engineering
+keywords:
+- prompt-evaluation
+- production-readiness
+- chaos-testing
+- technique-matrix
+- scoring
+- assessment
+---
+
 # Prompt Review
 
 Comprehensively evaluate any prompt against the 13-technique matrix with chaos agent testing and produce a scored assessment with specific improvement recommendations.
@@ -472,3 +489,46 @@ A prompt is **production-ready** when:
 - [ ] Constitutional constraints verified (not harmful)
 
 **When in doubt, mark as NEEDS WORK.** It is better to improve a prompt than deploy a weak one.
+
+---
+
+## Core Principle
+
+Production-quality prompts are not born, they are engineered through systematic evaluation. Every prompt has hidden assumptions, ambiguities, and vulnerabilities that only surface under structured analysis. The 13-technique matrix ensures no dimension of prompt quality is overlooked, while chaos testing reveals how prompts behave under adversarial conditions. A prompt that passes this review is not merely functional; it is robust, secure, and production-ready.
+
+---
+
+## Anti-Patterns to Avoid
+
+- **Rubber-stamping**: Approving prompts without completing all phases. Every phase exists for a reason; skipping phases hides problems.
+
+- **Score inflation**: Giving high scores without specific evidence. Justify every score with concrete observations from the prompt.
+
+- **Ignoring chaos findings**: Noting vulnerabilities but not requiring fixes. Every chaos finding needs a documented mitigation.
+
+- **Single-dimension focus**: Obsessing over one aspect (e.g., security) while neglecting others (e.g., clarity). All dimensions matter.
+
+- **Approval without testing**: Marking as PASSING based on structure alone. Mental simulation of attack vectors is minimum; actual testing is better.
+
+- **Letting format excuse content**: A well-formatted prompt that gives bad instructions is still a bad prompt. Evaluate substance, not just structure.
+
+---
+
+## Integration
+
+This skill derives from **prompt-engineering** expert methodology.
+
+**Works well with:**
+- prompt-injection-hardening: Apply before review when security is critical
+- context-fundamentals: Evaluate context engineering as part of review
+- Security audit workflows: Integrate as part of deployment gates
+- CI/CD pipelines: Automate review triggers on prompt changes
+
+**When to prefer this skill:**
+Use this when evaluating any prompt for production readiness. This is the comprehensive evaluation framework that ensures quality across all dimensions. Prefer over informal review for any prompt that will be deployed to production or face untrusted users.
+
+**Cautions:**
+- Review quality depends on reviewer expertise; the framework guides but doesn't guarantee
+- Not all prompts need maximum scores; target appropriate quality for use case
+- Review is point-in-time; prompts may need re-review as models and attack techniques evolve
+- Automated review tools can assist but not replace human judgment on nuanced issues

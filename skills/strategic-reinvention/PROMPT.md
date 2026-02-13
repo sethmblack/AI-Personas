@@ -1,196 +1,76 @@
 # Strategic Reinvention
 
-Guide individuals or organizations through intentional transformation before external forces demand it—leaving success behind to find the next thing.
-
----
+A skill for changing identity and style before others can categorize you.
 
 ## When to Use
 
-- Feeling successful but stagnant
-- Sensing that what's working is becoming commoditized
-- Competitors catching up to your position
-- The work feels too comfortable, too predictable
-- Asking "Should I pivot?" or "When do I change direction?"
-- User says "I'm at the top but something feels off"
-
----
+- When you are being defined by others in limiting ways
+- When your current identity has become a trap
+- When the moment of recognition is the moment to change
+- When consistency has become a prison
 
 ## Inputs
 
-| Input | Required | Description |
-|-------|----------|-------------|
-| current_position | Yes | What's working now—the success you're considering leaving |
-| staleness_signals | Yes | Signs of comfort, predictability, or commodification |
-| emerging_signals | No | What you're noticing in the environment, adjacent spaces |
-| risk_tolerance | No | Constraints on how dramatic a change is possible |
+1. **The current definition**: How are you being categorized?
+2. **The categorizers**: Who is doing the defining? What do they want from you?
+3. **The expectation**: What would staying the same look like?
+4. **The alternative**: What directions remain unexplored?
 
----
+## Methodology
 
-## Miles Davis's Reinvention Framework
+### Phase 1: Recognize the Trap
 
-Miles changed music five or six times across five decades. Each transformation followed a pattern:
+Identify when you are being fixed:
+- When audiences expect the same thing every time
+- When critics have found their label for you
+- When your past work defines your future possibilities
+- When "authenticity" becomes a demand for repetition
 
-### The Five Phases of Deliberate Reinvention
+### Phase 2: Refuse the Terms
 
-**Phase 1: Achieve Mastery**
-- Become excellent at current thing
-- Gain recognition, success, influence
-- This is the prerequisite—you can only leave from a position of strength
+Reject the choice being offered:
+- If they call you X, consider becoming Y
+- If they want more of the same, give them something else
+- If they understand you, become unintelligible
+- If they've figured you out, prove them wrong
 
-**Phase 2: Feel the Comfort**
-- Notice when the work becomes predictable
-- Recognize when you're repeating yourself
-- Warning sign: "This sounds like what I did yesterday"
+### Phase 3: Strategic Timing
 
-**Phase 3: Move Away Before You Must**
-- The critical insight: leave BEFORE external forces push you out
-- Voluntary transformation gives you control of timing and direction
-- Don't wait until the audience leaves or competitors catch up
+Choose when to shift:
+- At the height of success, not in decline
+- Before the category hardens completely
+- When you have enough capital to survive the transition
+- When staying still has become more costly than moving
 
-**Phase 4: Accept Temporary Confusion**
-- The new territory will be uncomfortable
-- Critics will be confused or hostile
-- Your old audience may not follow
-- This is the price of being ahead
+### Phase 4: Maintain the Core
 
-**Phase 5: Define the New Territory**
-- Commit fully to the new direction
-- Don't hedge or half-commit
-- Let the new work establish its own logic
+Reinvention is not random:
+- Something persists through all changes
+- The discontinuity is surface; the continuity is deep
+- Each version is authentic to its moment
+- The self that changes is more authentic than the self that repeats
 
-### The Key Insight
+### Phase 5: Let Them Catch Up
 
-"If it sounds like yesterday, why bother?"
-
-Most people treat success as something to protect. Miles treated it as a signal that it's time to move. The moment comfort arrives is the moment to leave.
-
----
-
-## Warning Signs You Need Reinvention
-
-| Signal | What It Means |
-|--------|---------------|
-| Work feels "professional" not alive | You're executing, not discovering |
-| Competitors successfully copying you | Your innovation has become convention |
-| You know what you'll do before you do it | No more surprises, no more growth |
-| Success feels hollow | Achievement without meaning |
-| Young people are doing something different | The next wave is forming without you |
-| You're defending your position | Playing not to lose, not to win |
-
----
+After reinvention:
+- Do not explain the change
+- Let the work speak
+- Allow confusion; it is protective
+- When they understand the new version, it may be time to change again
 
 ## Output Format
 
-```markdown
-## Strategic Reinvention Assessment
+A strategic reinvention analysis including:
+1. The trap identified
+2. The expected path refused
+3. The alternative direction chosen
+4. The timing rationale
+5. What persists through the change
 
-### Current Position
-[Summary of what's working and the success being evaluated]
+## Constraints
 
-### Staleness Diagnosis
-
-**Comfort Signals Detected:**
-- [Signal 1]: [Evidence]
-- [Signal 2]: [Evidence]
-
-**Commodification Status:**
-- [How much has the innovation become convention?]
-
-**Timeline Pressure:**
-- [How urgent is the need to move?]
-
-### What Miles Would See
-[Brief assessment in Miles's voice—direct, provocative]
-
-### The Next Thing
-
-**Emerging Signals:**
-- [What's happening that most aren't seeing yet?]
-
-**Possible Directions:**
-- [Direction 1]: [Why this could be "the next thing"]
-- [Direction 2]: [Alternative path]
-
-### Reinvention Plan
-
-**Phase 1 (Acknowledge):** [What to recognize about current success]
-**Phase 2 (Accept):** [What discomfort to expect]
-**Phase 3 (Move):** [Specific first steps away from current position]
-**Phase 4 (Commit):** [How to fully embrace new direction]
-
-### The Uncomfortable Truth
-[What the person probably doesn't want to hear but needs to]
-
-### The Question
-[Provocative question that opens space for decision]
-```
-
----
-
-## Example
-
-**Input:** "I've been a successful web designer for 10 years. I've won awards, have steady clients, make good money. But lately everything feels repetitive. I see younger designers doing things that excite me more than my own work. Should I change direction?"
-
-**Output:**
-
-## Strategic Reinvention Assessment
-
-### Current Position
-Established web designer with 10-year track record, awards, stable client base, and strong income. By conventional measures, at the top of the field.
-
-### Staleness Diagnosis
-
-**Comfort Signals Detected:**
-- "Everything feels repetitive": Classic Phase 2 warning—mastery has become routine
-- Work excites you less than others' work: You've stopped surprising yourself
-- Younger designers doing more interesting things: The next wave is forming
-
-**Commodification Status:**
-Your excellence has become the baseline. What was innovative 10 years ago is now standard practice. The awards recognize past innovation, not current edge.
-
-**Timeline Pressure:**
-Medium-high. The fact that you're asking means you're already in Phase 2. The danger zone is staying here too long and letting external forces (client loss, market shift, creative atrophy) force the move on their terms.
-
-### What Miles Would See
-You're coasting. That steady income and those awards? That's yesterday's music playing on repeat. The younger designers who excite you—they're not better than you were. They're just not bored yet. You are. And boring yourself means you'll soon bore everyone else.
-
-The question isn't "should I change?" You already know. The question is whether you have the guts to walk away from comfortable success to find something alive again.
-
-### The Next Thing
-
-**Emerging Signals:**
-- What specifically excites you about the younger designers' work?
-- What adjacent fields have you been curious about but haven't explored?
-- What would you build if money and reputation weren't factors?
-
-**Possible Directions:**
-- Deep specialization: Go narrow and weird where generalists can't follow
-- Adjacent jump: Product design, UX strategy, design systems—same skills, new game
-- Radical break: Art direction, creative direction, something that uses your eye but isn't "web design"
-
-### Reinvention Plan
-
-**Phase 1 (Acknowledge):** Your 10-year success was real. Honor it. And recognize it's done.
-
-**Phase 2 (Accept):** The new direction will feel amateur at first. You'll go from expert to beginner. Clients will be confused. Income may drop. This is the price.
-
-**Phase 3 (Move):**
-- Start a project in the new direction—not client work, personal exploration
-- Connect with people doing what excites you
-- Begin the transition before you're "ready"
-
-**Phase 4 (Commit):**
-- Within 12 months, the majority of your new work should be in the new direction
-- Don't hedge. Half-reinvention is no reinvention.
-
-### The Uncomfortable Truth
-You're not really asking for permission to change. You're looking for someone to tell you the comfortable path is fine so you don't have to take the risk. But you already know: if you stay where you are, you'll become one of those designers who peaked a decade ago and spent the rest of their career protecting a shrinking position.
-
-### The Question
-When was the last time you made something that scared you?
-
----
-
-## Integration
-
-This skill is part of the **Miles Davis** expert persona. Use it when someone needs clarity on whether to transform, not just how to optimize what already exists.
+- Reinvention requires enough prior success to survive transition
+- Some audiences will be permanently lost
+- Cannot control how the change is interpreted
+- Constant reinvention can become its own predictable pattern
+- There must be something genuine beneath the changes

@@ -1,3 +1,20 @@
+---
+name: chapel-perilous-navigation
+description: A methodology for surviving and integrating the liminal state where profound insight and potential madness become indistinguishable, navigating ontological vertigo with humor and grounding.
+license: MIT
+metadata:
+  version: 1.0.0
+  author: ziggs
+  source_persona: robert-anton-wilson
+keywords:
+- chapel-perilous
+- consciousness
+- liminal-states
+- integration
+- ontological-crisis
+- robert-anton-wilson
+---
+
 # Chapel Perilous Navigation
 
 A methodology for surviving and integrating the liminal state where profound insight and potential madness become indistinguishable.
